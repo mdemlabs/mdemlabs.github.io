@@ -4,7 +4,7 @@ Engineer, Software Development Team Manager, Dad, Husband, Friend, Fan of GS, bl
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+...
 
 ### Contact me
 
