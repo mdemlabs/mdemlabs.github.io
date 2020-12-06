@@ -1,10 +1,6 @@
----
-layout: page
-title: About
-permalink: /about/
----
+Mehmet Demirel
 
-Some information about you!
+Engineer, Software Development Team Manager, Dad, Husband, Friend, Fan of GS, blah blah...
 
 ### More Information
 
@@ -12,4 +8,4 @@ A place to include any other types of information that you'd like to include abo
 
 ### Contact me
 
-[email@domain.com](mailto:mdemlabs@gmail.com)
+[mdemlabs@gmail.com](mailto:mdemlabs@gmail.com)
