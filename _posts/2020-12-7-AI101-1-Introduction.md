@@ -3,6 +3,8 @@ layout: post
 title: Yapay Zeka'ya Giriş
 ---
 
+![](/images/HeaderPicture2.png)
+
 <h3>Yapay Zeka (AI) yada Makine Öğrenmesi (ML) neden bu kadar önemli?</h3>
 
 Sanayi devriminden bu yana neredeyse 300 yıldan fazla bir süredir devam eden ekonomik büyümenin itici gücü teknolojik gelişmeler. Buhar makinasının icadıyla başlayan süreç, sanayi devrimini tetikleyerek fabrikalarda üretiminin insan gücünden makinelere doğru evrilmesini sağladı ve makine çağını başlattı. Daha sonra elektriğin icad edilmesi ve 20. yüzyılın başlarında atom konusunda yapılan çalışmalar ile atom çağı ve sonrasında süper güçlerin uzay yarışı ile başlayan uzay çağını yaşadık. Fakat microchip'lerin gelişmesi ile beraber bilgisayar donanımlarının ucuzlaması ve herkes için ulaşılabilir hale gelmesiyle gerçekleşen Dijital devrim, Bilgi çağını tetiklemiştir. İnternet'in yayılması ağa bağlantılı cihaz sayısının patlamasına yol açmış ve sosyal medya ile beraber fiziksel sınırlar ortadan kalkarak tüm dünya birbiri ile bağlantılı hale gelmiştir. 
@@ -10,7 +12,7 @@ Sanayi devriminden bu yana neredeyse 300 yıldan fazla bir süredir devam eden e
 Son 30 yılda teknoloji hızla gelişirken üretilen veri miktarı da korkunç seviyelere ulaşmıştır. Bu veriyi anlamlı hale getirerek bilgi üretmek ve daha verimli ürün ve servisler sunabilmek için yeni teknolojik inovasyonların yolunu açmak, küresel rekabette öne geçmenin hatta belki de hayatta kalabilmenin tek yolu gibi görünüyor. Burada anaktar kelime verimlilik. Sonu gelmez bir açlıkla herkes daha verimli sistemlerin peşinde koşarken, "Big Data" dijital ekonominin petrolü haline gelmeye başladı. Nasıl ki petrol bir dönem ülkeler için en önemli enerji kaynağıysa (hala çok önemli), günümüzde büyük veri'nin rolü de aynı şekilde tanımlanmaktadır. Petrol metaforu son derece başarılı bir benzetme çünkü veri olmaksızın AI sistemleri kurmak mümkün değildir. Bu noktada AI ile alaklı başka bir metafor da AI konusundaki en önemli isimlerden Andrew NG'den geliyor: "AI is the new electricity".
 
 ![](/images/DataOilAIElectricity.png)
-<img src="https://twitter.com/gleonhard/status/931421911892054017" />
+[Reference: https://twitter.com/gleonhard/status/931421911892054017](https://twitter.com/gleonhard/status/931421911892054017)
 
 
 Büyük veri deyince ilk aklımıza gelen muhtemelen marketing temelli kişiselleştirilmiş uygulamalar olabilir, mesela online alış veriş yaptığımız perakende sitesinin bize ürün yada kampanya tavsiyelerinde bulunması gibi. Büyük veri potansiyeli, cep telefonlarındaki akıllı asistanlardan, finansal sistemlere yapılan freud saldırılarına karşı geliştirilen sistemlere ve enerji tüketimi ile üretim arasındaki dengeyi yönetmeyi sağlayan sistemlerden, hastalara tanı koymaya yarayan sistemlere kadar hayatın her alanını kapsar. Büyük veri'yi kullanarak işe yarar bilgiler ve uygulanabilir aksiyonlar elde etmek için artık geleneksel veri madenciliği yöntemleri yetersiz kalmakta ve makine öğrenmesi tekniklerine ihtiyaç duyulmaktadır.
@@ -27,6 +29,9 @@ Bu sorunun cevabı ekonomistlerin "Genel Amaçlı Teknolojiler" dediği teknoloj
 
 Aslında yeni bir yapay zeka baharını yaşıyoruz. Yapay zeka, bu yüzyılın en önemli teknolojisi olarak iş hayatının en çok konuşulan konulardan biri ve kamusal tartışmalara da konu olmuş durumda (özellikle güvenlik ve mahremiyet ile alakalı konularda). Yapay zeka'nin tarihine baktığımızda, 3. defa AI baharı "AI Spring" yaşanıyor. Daha önce 1960 ve 1980'lerde de benzer şekilde Yapay Zeka ve Makine Öğrenmesi çok popüler olmuş, devlet kurumları, üniversiteler ve şirketler ciddi yatırımlar yapmışlar. Fakat beklentiler karşılanamadığı için devamında 1970 ve 1990'lar da araştırma projeleri ya askıya alınmış yada bütçeler kısılmış. Bu dönemler de AI kışı "AI winter" olarak isimlendirilmiştir.
 
+![](/images/AI_winter_history.png)
+[Reference: https://towardsdatascience.com/history-of-the-first-ai-winter-6f8c2186f80b](https://towardsdatascience.com/history-of-the-first-ai-winter-6f8c2186f80b)
+
 Diğer pek çok yeni teknoloji gibi, yapay zeka da popülarite'den kaynaklı olsa gerek, pek çok gerçekçi olmayan beklenti yarattı. İş planlarının ve şirket stratejilerinin, makine öğrenimi, sinir ağları ve teknolojinin diğer biçimlerine referanslarla ortaya koyduğu ürün ve servislerin, çoğu zaman gerçek yetenekleriyle çok az bağlantısı olduğunu görüyoruz. Örneğin, bir online perakende sitesini "AI destekli" olarak adlandırmak onu daha etkili hale getirmez, ancak yatırımcıların ilgisini toplamaya yardımcı olabilir. 
 
 AI bizlere gelecek ile alakalı çok şey vadetmekle beraber henüz daha yolun başındayız. Şu ana kadar gördüğümüz yapay zeka uygulamaları "Narrow AI" denilen her seferinde iyi tanımlanmış tek bir görevi çözme becerisine sahip yapay zeka programlarıdır: Resimlerdeki kedileri tanıyan bir yapay zeka, İngilizceyi İtalyancaya çeviremez. Örneğin, Go oyununda dünya şampiyonunu oyuncuyu geride bırakan makine AlphaGO, bu oyunlardan çok daha basit olmasına rağmen tic-tac-toe veya dama oynayamıyor. Filmlerde izlediğimiz yada AI futurist'lerinin betimledikleri gelecek resimlerinde yer alan, insan gibi bilişsel becerilere sahip ve sunulan her türlü görevin üstesinden gelebilen Genel AI "General AI" (yada Super Intelligence) hala çok uzakta. Bazıları oraya asla varamayacağımızı iddia ediyor. Genel AI hala uzak, bulanık bir gelecek vizyonu olsa da, haberlerde AI'dan bahsedildiğinde birçok insanın aklında olan budur. 
@@ -34,9 +39,9 @@ AI bizlere gelecek ile alakalı çok şey vadetmekle beraber henüz daha yolun b
 OpenAI şirketi, en yeni dil modeli "GPT-3" ile ilgili detaylı bilgiler içeren duyurusunu Mayıs 2020'de yayınladı ve Temmuz ayında, bir API aracılığıyla bir miktar kullanıcıya beta versiyonu test etmeleri için modele erişim izni verdi. Bu model, insansı yapay zeka konusunda bugüne kadar gelinen en üst seviye. Model şiir yazabiliyor, oyun oynayabiliyor, diller arası çeviri yapabiliyor yada bilgisayar kodları yazabiliyor. Fakat henüz resim tanıma gibi işlemler 
 
 Son yıllarda yapay zekanın daha yoğun kullanımına yol açan en önemli gelişmeleri şu şekilde sıralayabiliriz:
-<p><br>1- Daha etkili ve daha düşük maliyetli bilgi işlem kapasitesi, </br>
-<br>2- Yapay zeka tarafından kullanılabilecek veri miktarındaki büyük artışlar, </br>
-<br>3- Daha gelişmiş yapay zeka algoritmaları ve özellikle Derin Öğrenme yöntemlerinin yükselişi </br> </p>
+1- Daha etkili ve daha düşük maliyetli bilgi işlem kapasitesi, 
+2- Yapay zeka tarafından kullanılabilecek veri miktarındaki büyük artışlar,
+3- Daha gelişmiş yapay zeka algoritmaları ve özellikle Derin Öğrenme yöntemlerinin yükselişi
 
 2012'de profesör Geoffrey Hinton ve Toronto Üniversitesi'ndeki diğer araştırmacılar, yapay zeka araştırmalarına olan geniş ilgiyi yeniden canlandıran derin öğrenme teknolojisi geliştirdiler. Görüntü tanımaya uygulandığında, elde edilen sonuçlar o güne kadar yapılanların en iyisiydi. Bulguları, alandaki birçok bilim insanını şaşırttı ve araştırmacıların ilgisini Derin Öğrenmeye çekti. Derin Öğrenme, yapay zekanın verileri ve bilgileri insan beyninin sinir ağını taklit edecek şekilde düzenlemesini sağlayan bir makine öğrenimi yöntemidir. Basitçe, bir öğrenme sisteminin parametrelerini istediğimiz sonuçları verene kadar değiştirmemizi ve mükemmel değerleri bulmamızı sağlar.
 
