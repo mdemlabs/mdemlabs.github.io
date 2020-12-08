@@ -39,9 +39,9 @@ AI bizlere gelecek ile alakalı çok şey vadetmekle beraber henüz daha yolun b
 OpenAI şirketi, en yeni dil modeli "GPT-3" ile ilgili detaylı bilgiler içeren duyurusunu Mayıs 2020'de yayınladı ve Temmuz ayında, bir API aracılığıyla bir miktar kullanıcıya beta versiyonu test etmeleri için modele erişim izni verdi. Bu model, insansı yapay zeka konusunda bugüne kadar gelinen en üst seviye. Model şiir yazabiliyor, oyun oynayabiliyor, diller arası çeviri yapabiliyor yada bilgisayar kodları yazabiliyor. Fakat henüz resim tanıma gibi işlemler 
 
 Son yıllarda yapay zekanın daha yoğun kullanımına yol açan en önemli gelişmeleri şu şekilde sıralayabiliriz:
-1- Daha etkili ve daha düşük maliyetli bilgi işlem kapasitesi, 
-2- Yapay zeka tarafından kullanılabilecek veri miktarındaki büyük artışlar,
-3- Daha gelişmiş yapay zeka algoritmaları ve özellikle Derin Öğrenme yöntemlerinin yükselişi
+1. Daha etkili ve daha düşük maliyetli bilgi işlem kapasitesi, 
+2. Yapay zeka tarafından kullanılabilecek veri miktarındaki büyük artışlar,
+3. Daha gelişmiş yapay zeka algoritmaları ve özellikle Derin Öğrenme yöntemlerinin yükselişi
 
 2012'de profesör Geoffrey Hinton ve Toronto Üniversitesi'ndeki diğer araştırmacılar, yapay zeka araştırmalarına olan geniş ilgiyi yeniden canlandıran derin öğrenme teknolojisi geliştirdiler. Görüntü tanımaya uygulandığında, elde edilen sonuçlar o güne kadar yapılanların en iyisiydi. Bulguları, alandaki birçok bilim insanını şaşırttı ve araştırmacıların ilgisini Derin Öğrenmeye çekti. Derin Öğrenme, yapay zekanın verileri ve bilgileri insan beyninin sinir ağını taklit edecek şekilde düzenlemesini sağlayan bir makine öğrenimi yöntemidir. Basitçe, bir öğrenme sisteminin parametrelerini istediğimiz sonuçları verene kadar değiştirmemizi ve mükemmel değerleri bulmamızı sağlar.
 
