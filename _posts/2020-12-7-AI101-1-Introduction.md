@@ -48,6 +48,6 @@ Son yıllarda yapay zekanın daha yoğun kullanımına yol açan en önemli geli
 
 2012'de profesör Geoffrey Hinton ve Toronto Üniversitesi'ndeki diğer araştırmacılar, yapay zeka araştırmalarına olan geniş ilgiyi yeniden canlandıran derin öğrenme teknolojisi geliştirdiler. Görüntü tanımaya uygulandığında, elde edilen sonuçlar o güne kadar yapılanların en iyisiydi. Bulguları, alandaki birçok bilim insanını şaşırttı ve araştırmacıların ilgisini Derin Öğrenmeye çekti. Derin Öğrenme, yapay zekanın verileri ve bilgileri insan beyninin sinir ağını taklit edecek şekilde düzenlemesini sağlayan bir makine öğrenimi yöntemidir. Basitçe, bir öğrenme sisteminin parametrelerini istediğimiz sonuçları verene kadar değiştirmemizi ve mükemmel değerleri bulmamızı sağlar.
 
-Yapay zeka araştırmalarında mükemmellik için verilen 2019 Turing Ödülü, derin öğrenmenin en etkili mimarlarından üçüne, Facebook'tan Yann LeCun'a, Google'dan Geoffrey Hinton'a ve Montreal Üniversitesi'nden Yoshua Bengio'ya verildi. Yoshua Bengio'nun Yapay zeka konusunda yaptığı TED Talk'u mutlaka izlemelisiniz:
+Yapay zeka araştırmalarında mükemmellik için verilen 2019 Turing Ödülü, derin öğrenmenin en etkili mimarlarından üçüne, Facebook'tan Yann LeCun'a, Google'dan Geoffrey Hinton'a ve Montreal Üniversitesi'nden Yoshua Bengio'ya verildi. Yoshua Bengio'nun Yapay zeka konusunda yaptığı TED Talk'u mutlaka izlemek gerekir:
 <p><iframe src="https://www.youtube.com/embed/uawLjkSI7Mo" width="760" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
 
