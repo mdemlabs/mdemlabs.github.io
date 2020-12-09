@@ -11,10 +11,10 @@ Nobel ödüllü fizikçi Richard Feynman'ın okuduğu yada üzerinde çalıştı
 
 Feynman Öğrenme Tekniğinin dört adımı vardır:
 
-1) Öğrenmek istediğiniz bir konu seçelim
-2) Öğrendiklerimizi 6. sınıftaki bir öğrenciye öğretiyormuş gibi anlatmaya çalışalım
-3) Açıklamadaki eksikleri ve boşlukları belirleyelim; Tekrar geri dönüp daha iyi anlamaya çalışalım
-4) Öğrendiklerimizi bir hikaye oluşturur gibi olaylar ve konular arasında bağlantılar kurarak doğru şekilde organize edelim
+1. Öğrenmek istediğiniz bir konu seçelim
+2. Öğrendiklerimizi 6. sınıftaki bir öğrenciye öğretiyormuş gibi anlatmaya çalışalım
+3. Açıklamadaki eksikleri ve boşlukları belirleyelim; Tekrar geri dönüp daha iyi anlamaya çalışalım
+4. Öğrendiklerimizi bir hikaye oluşturur gibi olaylar ve konular arasında bağlantılar kurarak doğru şekilde organize edelim
 
 Feynman’ın yaklaşımı, öğrenme sürecini yeni zihni modeller oluşturarak bir tür zihniyet gelişimi yada büyüme şeklinde tanımlıyor. Bu da bize sabit ve gelişen zihniyet arasındaki farkı güzel bir şekilde tanımlayan Carol Dweck'in çalışmalarıyla güzel bir şekilde örtüşüyor. Carol Dweck insan motivasyonunu inceliyor. İnsanların neden başarılı olduğu (veya başaramadığı) ve başarıyı teşvik etmek için neyin bizim kontrolümüzde olduğunu araştırıyor.
 
