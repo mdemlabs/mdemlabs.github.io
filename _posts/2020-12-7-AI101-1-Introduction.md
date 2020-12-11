@@ -30,6 +30,7 @@ Bu yüzyılın en önemli Genel Amaçlı Teknoloji'si AI'dır ve hatta özellikl
 Aslında yeni bir yapay zeka baharını yaşıyoruz. Yapay zeka, bu yüzyılın en önemli teknolojisi olarak iş hayatının en çok konuşulan konulardan biri ve kamusal tartışmalara da konu olmuş durumda (özellikle güvenlik ve mahremiyet ile alakalı konularda). Yapay zeka'nin tarihine baktığımızda, 3. defa AI baharı "AI Spring" yaşanıyor. Daha önce 1960 ve 1980'lerde de benzer şekilde Yapay Zeka ve Makine Öğrenmesi çok popüler olmuş, devlet kurumları, üniversiteler ve şirketler ciddi yatırımlar yapmışlar. Fakat beklentiler karşılanamadığı için devamında 1970 ve 1990'lar da ticari projeler ya askıya alınmış yada bütçeler kısılmış. Bu dönemler de AI kışı "AI winter" olarak isimlendirilmiştir.
 
 ![](/images/AI_winter_history.png)
+
 [Reference: https://towardsdatascience.com/history-of-the-first-ai-winter-6f8c2186f80b](https://towardsdatascience.com/history-of-the-first-ai-winter-6f8c2186f80b)
 
 Diğer pek çok yeni teknoloji gibi, yapay zeka da popülarite'den kaynaklı olsa gerek, pek çok gerçekçi olmayan beklenti yarattı. İş planlarının ve şirket stratejilerinin, makine öğrenimi, sinir ağları ve teknolojinin diğer biçimlerine referanslarla ortaya koyduğu ürün ve servislerin, çoğu zaman gerçek yetenekleriyle çok az bağlantısı olduğunu görüyoruz. Örneğin, bir online perakende sitesini "AI destekli" olarak adlandırmak onu daha etkili hale getirmez, ancak yatırımcıların ilgisini toplamaya yardımcı olabilir. 
