@@ -51,7 +51,7 @@ Son yıllarda yapay zekanın daha yoğun kullanımına yol açan en önemli geli
 Yapay zeka araştırmalarında mükemmellik için verilen 2019 Turing Ödülü, derin öğrenmenin en etkili mimarlarından üçüne, Facebook'tan Yann LeCun'a, Google'dan Geoffrey Hinton'a ve Montreal Üniversitesi'nden Yoshua Bengio'ya verildi. Yoshua Bengio'nun Yapay zeka konusunda yaptığı TED Talk'u mutlaka izlemek gerekir:
 <p><iframe src="https://www.youtube.com/embed/uawLjkSI7Mo" width="760" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
 
-Dipnot:
+Kaynakça:
 1. https://hbr.org/2017/07/the-business-of-artificial-intelligence
 2. "Zero to AI" Gianluca Mauro & Nicolo Valigi, https://www.manning.com/books/zero-to-ai#:~:text=About%20the%20book,AI%20to%20shape%20their%20industries.
 3. "Artificial Intelligence, What everyone needs to know" Jerry Kaplan, https://www.amazon.com/Artificial-Intelligence-What-Everyone-Needs/dp/0190602392
