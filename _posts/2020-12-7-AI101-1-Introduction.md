@@ -3,7 +3,7 @@ layout: post
 title: Yapay Zeka'ya Giriş
 ---
 
-![](/images/gardens-by-the-bay-singapore_2012.jpg)
+![](/images/AI_Landscape.png)
 
 <h3>Yapay Zeka (AI) yada Makine Öğrenmesi (ML) neden bu kadar önemli?</h3>
 
