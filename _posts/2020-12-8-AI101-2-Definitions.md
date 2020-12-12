@@ -45,5 +45,5 @@ Makine öğrenimi yaklaşımı, girdi ile sonuçlar arasındaki ilişkiyi tanım
 
 Kaynakça:
 1. [Alan Turing, "Computing Machinery and Intelligence"](https://academic.oup.com/mind/article/LIX/236/433/986238)
-2. [A proposal for the Dartmouth summer research project on Artificial Intelligence](http://www-formal.stanford.edu/jmc/history/dartmouth/dartmouth.html)</br>
+2. [A proposal for the Dartmouth summer research project on Artificial Intelligence](http://www-formal.stanford.edu/jmc/history/dartmouth/dartmouth.html)
 
