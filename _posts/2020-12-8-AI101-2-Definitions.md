@@ -55,6 +55,6 @@ Makine öğrenimi yaklaşımı, girdi ile sonuçlar arasındaki ilişkiyi tanım
 Kaynakça:
 1. [Alan Turing, "Computing Machinery and Intelligence"](https://academic.oup.com/mind/article/LIX/236/433/986238)
 2. [A proposal for the Dartmouth summer research project on Artificial Intelligence](http://www-formal.stanford.edu/jmc/history/dartmouth/dartmouth.html)
-3. [“Zero to AI” Gianluca Mauro & Nicolo Valigi](https://www.manning.com/books/zero-to-ai#:~:text=About%20the%20book,AI%20to%20shape%20their%20industries)
-4. [Deep Learning with Python, François Chollet](https://www.manning.com/books/deep-learning-with-python)
+3. [“Zero to AI”, Gianluca Mauro & Nicolo Valigi](https://www.manning.com/books/zero-to-ai#:~:text=About%20the%20book,AI%20to%20shape%20their%20industries)
+4. ["Deep Learning with Python", François Chollet](https://www.manning.com/books/deep-learning-with-python)
 
