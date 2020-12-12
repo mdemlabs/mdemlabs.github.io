@@ -2,7 +2,7 @@
 layout: post
 title: Yapay Zeka nedir?
 ---
-![](/images/AI_ML_DL_diagram.png)
+![](/images/HeaderPicture2.png)
 
 <h3> Yapay Zeka nedir? </h3>
 
