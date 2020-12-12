@@ -4,6 +4,7 @@ title: Yapay Zeka'ya Giriş
 ---
 
 ![](/images/AI_Landscape.png)
+<br>[Image source: https://medium.com/@BangBitTech](https://medium.com/@BangBitTech)
 
 <h3>Yapay Zeka (AI) yada Makine Öğrenmesi (ML) neden bu kadar önemli?</h3>
 
@@ -12,7 +13,7 @@ Sanayi devriminden bu yana neredeyse 300 yıldan fazla bir süredir devam eden e
 Son 30 yılda teknoloji hızla gelişirken üretilen veri miktarı da korkunç seviyelere ulaşmıştır. Bu veriyi anlamlı hale getirerek bilgi üretmek ve daha verimli ürün ve servisler sunabilmek için yeni teknolojik inovasyonların yolunu açmak, küresel rekabette öne geçmenin hatta belki de hayatta kalabilmenin tek yolu gibi görünüyor. Burada anaktar kelime verimlilik. Sonu gelmez bir açlıkla herkes daha verimli sistemlerin peşinde koşarken, "Big Data" dijital ekonominin petrolü haline gelmeye başladı. Nasıl ki petrol bir dönem ülkeler için en önemli enerji kaynağıysa (hala çok önemli), günümüzde büyük veri'nin rolü de aynı şekilde tanımlanmaktadır. Petrol metaforu son derece başarılı bir benzetme çünkü veri olmaksızın AI sistemleri kurmak mümkün değildir. Bu noktada AI ile alaklı başka bir metafor da AI konusundaki en önemli isimlerden Andrew NG'den geliyor: "AI is the new electricity".
 
 ![](/images/DataOilAIElectricity.png)
-[Reference: https://twitter.com/gleonhard/status/931421911892054017](https://twitter.com/gleonhard/status/931421911892054017)
+[Image source: https://twitter.com/gleonhard/status/931421911892054017](https://twitter.com/gleonhard/status/931421911892054017)
 
 
 Büyük veri deyince ilk aklımıza gelen muhtemelen marketing temelli kişiselleştirilmiş uygulamalar olabilir, mesela online alış veriş yaptığımız perakende sitesinin bize ürün yada kampanya tavsiyelerinde bulunması gibi. Büyük veri potansiyeli, cep telefonlarındaki akıllı asistanlardan, finansal sistemlere yapılan freud saldırılarına karşı geliştirilen sistemlere ve enerji tüketimi ile üretim arasındaki dengeyi yönetmeyi sağlayan sistemlerden, hastalara tanı koymaya yarayan sistemlere kadar hayatın her alanını kapsar. Büyük veri'yi kullanarak işe yarar bilgiler ve uygulanabilir aksiyonlar elde etmek için artık geleneksel veri madenciliği yöntemleri yetersiz kalmakta ve makine öğrenmesi tekniklerine ihtiyaç duyulmaktadır.
@@ -30,8 +31,7 @@ Bu yüzyılın en önemli Genel Amaçlı Teknoloji'si AI'dır ve hatta özellikl
 Aslında yeni bir yapay zeka baharını yaşıyoruz. Yapay zeka, bu yüzyılın en önemli teknolojisi olarak iş hayatının en çok konuşulan konulardan biri ve kamusal tartışmalara da konu olmuş durumda (özellikle güvenlik ve mahremiyet ile alakalı konularda). Yapay zeka'nin tarihine baktığımızda, 3. defa AI baharı "AI Spring" yaşanıyor. Daha önce 1960 ve 1980'lerde de benzer şekilde Yapay Zeka ve Makine Öğrenmesi çok popüler olmuş, devlet kurumları, üniversiteler ve şirketler ciddi yatırımlar yapmışlar. Fakat beklentiler karşılanamadığı için devamında 1970 ve 1990'lar da ticari projeler ya askıya alınmış yada bütçeler kısılmış. Bu dönemler de AI kışı "AI winter" olarak isimlendirilmiştir.
 
 ![](/images/AI_winter_history.png)
-
-[Reference: https://towardsdatascience.com/history-of-the-first-ai-winter-6f8c2186f80b](https://towardsdatascience.com/history-of-the-first-ai-winter-6f8c2186f80b)
+<br>[Image source: https://towardsdatascience.com/history-of-the-first-ai-winter-6f8c2186f80b](https://towardsdatascience.com/history-of-the-first-ai-winter-6f8c2186f80b)
 
 Diğer pek çok yeni teknoloji gibi, yapay zeka da popülarite'den kaynaklı olsa gerek, pek çok gerçekçi olmayan beklenti yarattı. İş planlarının ve şirket stratejilerinin, makine öğrenimi, sinir ağları ve teknolojinin diğer biçimlerine referanslarla ortaya koyduğu ürün ve servislerin, çoğu zaman gerçek yetenekleriyle çok az bağlantısı olduğunu görüyoruz. Örneğin, bir online perakende sitesini "AI destekli" olarak adlandırmak onu daha etkili hale getirmez, ancak yatırımcıların ilgisini toplamaya yardımcı olabilir. 
 
@@ -40,7 +40,7 @@ AI bizlere gelecek ile alakalı çok şey vadetmekle beraber henüz daha yolun b
 OpenAI şirketi, en yeni dil modeli "GPT-3" ile ilgili detaylı bilgiler içeren duyurusunu Mayıs 2020'de yayınladı ve Temmuz ayında, bir API aracılığıyla bir miktar kullanıcıya beta versiyonu test etmeleri için modele erişim izni verdi. Bu model, insansı yapay zeka konusunda bugüne kadar gelinen en üst seviye. Bu modeli eğitmek için kullanılan veri miktarı muazzam: Wikipedia'nın ingilizce versiyonunda bulunan 6 milyon makale toplam eğitim verisinin yuzde 1'i bile değil (%0.6). Model şiir yazabiliyor, oyun oynayabiliyor, diller arası çeviri yapabiliyor yada bilgisayar kodları yazabiliyor. Fakat, tüm yeteneklerine rağmen, GPT-3 hala ortalama üç yaşındaki bir çocuğun yeteneklerinin çoğundan yoksundur. Tüm fiziksel nesnelerin üç boyutlu bir uzayda var olduğunu ve eylemlerin yerçekimi gibi temel fizik kuralları tarafından etkilendiğini anlamıyor. Bloklarla oynayan her çocuk bu kavramları anlar. Öte yandan GPT-3, nedensellik ve zamanın geçişi kavramına da sahip değildir. 
 
 ![](/images/GPT-3_sample.gif)
-[Reference: https://www.velleengineer.com/post/openai-gpt3-explained](https://www.velleengineer.com/post/openai-gpt3-explained)
+[Image source: https://www.velleengineer.com/post/openai-gpt3-explained](https://www.velleengineer.com/post/openai-gpt3-explained)
 
 Son yıllarda yapay zekanın daha yoğun kullanımına yol açan en önemli gelişmeleri şu şekilde sıralayabiliriz:
 1. Daha etkili ve daha düşük maliyetli bilgi işlem kapasitesi, 
