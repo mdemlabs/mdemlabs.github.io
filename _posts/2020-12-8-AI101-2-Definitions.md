@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Yapay Zeka nedir?
+title: Yapay Zeka'nın tanımı ve kısa tarihçesi
 ---
 ![](/images/HeaderPicture2.png)
 
