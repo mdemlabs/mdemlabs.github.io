@@ -50,11 +50,12 @@ Yapay zeka uygulamalarındaki iki temel yaklaşımdan biri olan uzman sistemler,
 
 Sembolik AI, satranç oynamak gibi iyi tanımlanmış mantıksal problemleri çözmek için uygun olsa da, görüntü sınıflandırması, konuşma tanıma ve dil çevirisi gibi daha karmaşık, bulanık problemleri çözmek için gereken kuralları bulmanın zor olduğu ortaya çıktı. Sembolik AI'nın yerini almak için yeni bir yaklaşım ortaya çıktı: Makine öğrenimi.
 
-Makine öğrenimi yaklaşımı, girdi ile sonuçlar arasındaki ilişkiyi tanımlayan kalıpları bulmaya (model oluşturma) ve bunun için istatistiksel yöntemler uygulamaya odaklanır. Böylece bir makinenin öğrenme algoritması, önceden tanımlanmış açık kurallar olmaksızın girdileri yorumlayıp sonuçları tahmin edebilir. Makine öğrenmesinin detayları bir sonraki yazının konusu olsun...
+Makine öğrenimi yaklaşımı, mevcut veriyi inceleyerek, girdiler ile sonuçlar arasındaki ilişkiyi tanımlayan kalıpları istatistiksel metodlar kullanarak sistematik şekilde bulmaya odaklanır. Yani eldeki veriden edinilen deneyimi istatiktiksel bir model ile ifade eder. Böylece bir makinenin öğrenme algoritması, önceden tanımlanmış açık kurallar olmaksızın yeni girdileri yorumlayıp sonuçları tahmin edebilir. Makine öğrenmesinin detayları bir sonraki yazının konusu olsun...
 
 Kaynakça:
 1. [Alan Turing, "Computing Machinery and Intelligence"](https://academic.oup.com/mind/article/LIX/236/433/986238)
 2. [A proposal for the Dartmouth summer research project on Artificial Intelligence](http://www-formal.stanford.edu/jmc/history/dartmouth/dartmouth.html)
 3. [“Zero to AI”, Gianluca Mauro & Nicolo Valigi](https://www.manning.com/books/zero-to-ai#:~:text=About%20the%20book,AI%20to%20shape%20their%20industries)
 4. ["Deep Learning with Python", François Chollet](https://www.manning.com/books/deep-learning-with-python)
+5. [Machine learning - Wikipedia](https://en.wikipedia.org/wiki/Machine_learning)
 
