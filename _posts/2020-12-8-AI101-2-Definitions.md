@@ -13,12 +13,12 @@ Yapay zeka (AI), geleneksel olarak algılama, arama, planlama ve öğrenme gibi 
 * E-ticaret sitesinin önerdiği ürünler
 * Drone'lardakı beni takip et özelliği
 
-Öncelikle, AI'dan bahsettiğimizde neyi kastettiğimizi net bir şekilde tanımlamamız gerekir. Yapay zeka, makine öğrenimi ve derin öğrenme nedir? Birbirleriyle nasıl ilişki kurarlar? Bunların kısaca tanımlamamaya çalışalım.
+Öncelikle, AI'dan bahsettiğimizde neyi kastettiğimizi net bir şekilde tanımlamamız gerekir. Yapay zeka, makine öğrenimi ve derin öğrenme nedir? Birbirleriyle nasıl ilişki kurarlar? 
 
 ![](/images/AI_ML_DL_coverage.png)
 <br>[Image source: https://www.graymatter.co.uk/thoughts/uncategorized/simple-guide-ai-machine-learning-and-deep-learning](https://www.graymatter.co.uk/thoughts/uncategorized/simple-guide-ai-machine-learning-and-deep-learning)
 
-AI ile yapılan tanımlar içinde en çok tercih ettiğim otomasyona atıfta bulunan şu tanımdır: Normalde insanlar tarafından gerçekleştirilen entellektüel görevleri otomatikleştirme çabası. Bu nedenle, AI, makine öğrenimi ve derin öğrenmeyi kapsayan, ancak aynı zamanda herhangi bir öğrenmeyi içermeyen daha birçok yaklaşımı da içeren genel bir alandır.
+Günümüzde AI etiketine sahip uygulamaların pek çoğu aslında Robotik Process Automation (RPA) denilen uygulamalar. AI için yapılan tanımlardan biri de, otomasyona atıfta bulunan şu tanımdır: Normalde insanlar tarafından gerçekleştirilen entellektüel görevleri otomatikleştirme çabası. Bu nedenle, AI, makine öğrenimi ve derin öğrenmeyi kapsayan, ancak aynı zamanda herhangi bir öğrenmeyi içermeyen daha birçok yaklaşımı da içeren genel bir alandır.
 
 <h3>Yapay zekanın kısa tarihi</h3>
 Yapay Zeka (AI) günümüzde çok moda bir kelime. Çoğu insan bunun nispeten yeni olduğunu düşünürken, yapay zekanın tarihi, entelektüellerin gelecekte bir şekilde var olabilecek mekanik 'adamlar' ve otomatlar fikri üzerine kafa yorduğu antik çağlara kadar uzanıyor. Hangi çağa gidersek gidelim insanoğlu, temeli otomasyon üzerine kurulu bir teknolojiye ulaşmanın hayalini kurmuştur. Ticarette ve endüstrilerde herhangi bir eylemin insan gücü bağımlı olmaksızın (yada daha az insan gücü harcanarak) yapılmasını sağlayacak makinelerin geliştirilmesi ve kullanımı, atılımların ve icatların temel itici gücü olmuştur.
