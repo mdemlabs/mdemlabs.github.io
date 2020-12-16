@@ -22,7 +22,7 @@ Günümüzde AI etiketine sahip uygulamaların pek çoğu aslında Robotik Proce
 
 <h3>Yapay zekanın kısa tarihi</h3>
 Yapay Zeka (AI) günümüzde çok moda bir kelime. Çoğu insan bunun nispeten yeni olduğunu düşünürken, yapay zekanın tarihi, entelektüellerin gelecekte bir şekilde var olabilecek mekanik 'adamlar' ve otomatlar fikri üzerine kafa yorduğu antik çağlara kadar uzanıyor. Hangi çağa gidersek gidelim insanoğlu, temeli otomasyon üzerine kurulu bir teknolojiye ulaşmanın hayalini kurmuştur. Ticarette ve endüstrilerde herhangi bir eylemin insan gücü bağımlı olmaksızın (yada daha az insan gücü harcanarak) yapılmasını sağlayacak makinelerin geliştirilmesi ve kullanımı, atılımların ve icatların temel itici gücü olmuştur.
-
+<br>
 Modern anlamda Yapay Zeka, gerçekte 1950'lerde ortaya çıktı. AI alanını gerçekten ateşleyen şey 1950'de Alan Turing tarafından önerilen bir soruydu: Bir makine insan zekasını taklit edebilir mi?... Yeni ufuklar açan makalesi "Computing Machinery and Intelligence" da, bir insan, bir bilgisayar ve bir (insan) sorgulayıcının üç farklı odada olduğu taklit oyun (imitation game) adlı bir oyun formüle etti. Sorgulayan kişinin amacı, bir dizi soru sorarak ve daktilo edilmiş yanıtlarını okuyarak insanı bilgisayardan ayırmaktır; bilgisayarın amacı sorgulayıcıyı onun insan olduğuna ikna etmektir. Oyuna dahil olan bilgisayarlar hakkında bazı varsayımlar geçerlidir: bilgisayarlar sınırsız depolama kapasitesine sahiptir ve ayrı, sürekli olmayan durumlara sahip herhangi bir bilgisayarı kopyalayabilen evrensel makinelerdir. 1952 yılında BBC röportajında Turing, 2000 yılına kadar ortalama sorgulayıcıların beş dakikalık bir seanstan sonra insanı doğru bir şekilde tanımlama şansının % 70'den az olacağını öne sürdü.
 
 ![](/images/AlanTuring.jpg)
