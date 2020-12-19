@@ -4,8 +4,7 @@ title: Makine Öğrenmesi
 ---
 
 ![](/images/ML_sampleUseCase1.png)
-<br>[image source: Jay Alammar, QCON 2020 London speech]
-(https://www.infoq.com/presentations/ml-dl-visual-intro/?utm_source=presentations&utm_medium=london&utm_campaign=qcon)
+<br>[Image source: Jay Alammar, QCON 2020 London speech](https://www.infoq.com/presentations/ml-dl-visual-intro/?utm_source=presentations&utm_medium=london&utm_campaign=qcon)
 
 <h3> Makine Öğrenmesi nedir? </h3>
 
