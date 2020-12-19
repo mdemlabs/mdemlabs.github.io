@@ -10,7 +10,7 @@ title: Makine Öğrenmesi
 
 Makine öğrenimi şu sorudan doğar: Bir bilgisayar, belirli bir görevi nasıl gerçekleştireceğini kendi başına öğrenebilir mi? Veri işleme kurallarını kodlayan programcılar olmaksizin, bir bilgisayar bu kuralları verilere bakarak otomatik olarak öğrenebilir mi?
 
-Bu soru yeni bir programlama paradigmasının kapısını açıyor. Klasik programlamada, sembolik yapay zeka paradigması, insan girdi kuralları (bir program) ve bu kurallara göre işlenecek veriler ve cevaplar ortaya çıkar (bkz. Şekil 1.2). Makine öğrenimiyle, insanlar verinin yanı sıra verilerden beklenen yanıtları da girer ve kurallar ortaya çıkar. Bu kurallar daha sonra orijinal cevaplar üretmek için yeni verilere uygulanabilir.
+Bu soru yeni bir programlama paradigmasının kapısını açıyor. Klasik programlamada, sembolik yapay zeka paradigması, insan girdi kuralları (bir program) ve bu kurallara göre işlenecek veriler ve cevaplar ortaya çıkar. Makine öğrenimiyle, insanlar verinin yanı sıra verilerden beklenen yanıtları da girer ve kurallar ortaya çıkar. Bu kurallar daha sonra orijinal cevaplar üretmek için yeni verilere uygulanabilir.
 
 Makine öğreniminin ilk tanımı, Amerikan yapay zeka öncüsü Arthur Samuel'e (1959) kadar uzanıyor: "Makine öğrenimi, bilgisayarlara açıkça programlanmadan öğrenme yeteneği veren çalışma alanıdır". Buradaki temel unsurlar, açıkça programlanmadan öğrenmedir. 
 
@@ -44,10 +44,8 @@ Bir makine öğrenimi sistemi, açıkça programlanmak yerine eğitilir. Bir gö
 ![](/images/ML_sampleUseCase2.png)
 <br>[Image source: Sebastian Raschka, nextgen-talk-2015](https://www2.slideshare.net/SebastianRaschka/nextgen-talk-022015)
 
-
 Kaynakça:
-1. [Alan Turing, "Computing Machinery and Intelligence"](https://academic.oup.com/mind/article/LIX/236/433/986238)
-2. [A proposal for the Dartmouth summer research project on Artificial Intelligence](http://www-formal.stanford.edu/jmc/history/dartmouth/dartmouth.html)
-3. [“Zero to AI”, Gianluca Mauro & Nicolo Valigi](https://www.manning.com/books/zero-to-ai#:~:text=About%20the%20book,AI%20to%20shape%20their%20industries)
-4. ["Deep Learning with Python", François Chollet](https://www.manning.com/books/deep-learning-with-python)
-5. [Machine learning - Wikipedia](https://en.wikipedia.org/wiki/Machine_learning)
+1. [“Zero to AI”, Gianluca Mauro & Nicolo Valigi](https://www.manning.com/books/zero-to-ai#:~:text=About%20the%20book,AI%20to%20shape%20their%20industries)
+2. ["Deep Learning with Python", François Chollet](https://www.manning.com/books/deep-learning-with-python)
+3. [Machine learning - Wikipedia](https://en.wikipedia.org/wiki/Machine_learning)
+4. ["Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow", Aurellion Geron](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1492032646)
