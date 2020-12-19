@@ -45,8 +45,6 @@ Bir makine öğrenimi sistemi, açıkça programlanmak yerine eğitilir. Bir gö
 
 <br>ve çok daha fazlası........
 
-![](/images/ML_sampleUseCase2.png)
-<br>[Image source: Sebastian Raschka, nextgen-talk-2015](https://www2.slideshare.net/SebastianRaschka/nextgen-talk-022015)
 
 Kaynakça:
 1. [“Zero to AI”, Gianluca Mauro & Nicolo Valigi](https://www.manning.com/books/zero-to-ai#:~:text=About%20the%20book,AI%20to%20shape%20their%20industries)
