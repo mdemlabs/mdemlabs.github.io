@@ -26,6 +26,8 @@ Bir makine öğrenimi sistemi, açıkça programlanmak yerine eğitilir. Bir gö
 ![](/images2/catVSdog.gif)
 <br>[Image source: https://github.com/ReiCHU31/Cat-Dog-Classification-Flask-App](https://github.com/ReiCHU31/Cat-Dog-Classification-Flask-App)
 
+<h3>Makine öğrenmesi uygulama alanları</h3>
+
 2000'li yıllarla beraber büyük veri ve bilgi işlem gücü teknolojilerinin gelişmesi, makine öğrenimi algoritmaları için mükemmel ortamı yarattı. Gerçekten de, bugün AI dediğimiz şeyin tüketiciye yönelik en havalı uygulamalarının çoğu büyük ölçüde makine öğrenimine güveniyor: Siri sesli sanal asistanı, Google Translate, kendi kendine giden arabalar ve daha fazlası:
 1. **Voice Assistants** - Sesli asistanlar her yerde karşımıza çıkabiliyor. En bilinenleri "Apple’s Siri", "Amazon's Alexa" ve "Google Assistant" olarak sıralayabiliriz.
 2. **Smartphone Cameras** - Akıllı telefonların kameralarının her geçen gün gelişen fotoğraf kalitelerinin arkasında makine öğrenmesi teknikleri var. Nesneleri algılamak, arka planı bulanıklaştırmak ve filtreleme işlemleri için görüntüdeki her piksel analiz ediliyor.
@@ -40,7 +42,9 @@ Bir makine öğrenimi sistemi, açıkça programlanmak yerine eğitilir. Bir gö
 11. **Catching Fraud in Banking** - Hiç kredi kartı dolandırıcılığının kurbanı oldunuz mu?.. Makine öğrenimi algoritmaları, dolandırıcılık tespitinden dolandırıcılığı önlemeye kadar, bankaların müşteri deneyimini iyileştirmek için çalışma şeklini değiştiriyor.
 12. **Self Driving Cars** - Donanım ve makine öğrenimi açısından teknolojinin ortaya koyduğu belki de en inanılmaz ve en hayranlık verici uygulama alanıdır.
 13. **Identifying Diseases and Diagnosis** - Sağlık hizmetlerinde başlıca ML uygulamalarından biri, başka türlü teşhis edilmesi zor kabul edilen hastalıkların ve rahatsızlıkların tanımlanması ve teşhisidir. Bu, ilk aşamalarda yakalanması zor olan kanser ve diğer genetik hastalıklara kadar her şeyi içerebilir. IBM Watson Genomics, makine öğreniminin genom tabanlı tümör dizilimi ile bütünleştirilmesinin hızlı tanı koymaya nasıl yardımcı olabileceğinin en iyi örneğidir
+
 <br>ve çok daha fazlası........
+
 ![](/images/ML_sampleUseCase2.png)
 <br>[Image source: Sebastian Raschka, nextgen-talk-2015](https://www2.slideshare.net/SebastianRaschka/nextgen-talk-022015)
 
