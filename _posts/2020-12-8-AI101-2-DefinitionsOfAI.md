@@ -2,7 +2,11 @@
 layout: post
 title: Yapay Zeka'nın tanımı ve kısa tarihçesi
 ---
-![](/images/HeaderPicture2.png)
+<p>
+  <kbd>
+    <img src="/images/HeaderPicture2.png" width="1000")
+  </kbd>
+</p>
 
 <h3> Yapay Zeka nedir? </h3>
 
