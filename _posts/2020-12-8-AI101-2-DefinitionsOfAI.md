@@ -4,7 +4,7 @@ title: Yapay Zeka'nın tanımı ve kısa tarihçesi
 ---
 <p>
   <kbd>
-    <img src="/images/HeaderPicture2.png" width="1000")
+    <img src="/images/HeaderPicture2.png" width="1000"/>
   </kbd>
 </p>
 
