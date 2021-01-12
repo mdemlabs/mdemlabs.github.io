@@ -28,7 +28,6 @@ Montreal Üniversitesi'nde derin öğrenme konusundaki çalışmaları nedeniyle
 
 **Judea Pearl**, zengin bir sebep ve sonuç anlayışına sahip olmadan yapay zekanın gerçekten zeki olamayacağını söylüyor. Yapay bir genel zeka (General AI) için nedensel akıl yürütme yeterli olmasa da gerekli, çünkü bilmenin ötesinde bilincin ve farkındalığın özünde yer alan iç gözlemi mümkün kılacağını belirtiyor. Pearl, "Ya" soruları "bilimin, ahlaki tutumların, özgür iradenin, bilincin yapı taşlarıdır" diyor. Judea Pearl'un başta çok satan kitabı "**The Book of Why: The New Science of Cause and Effect**" olmak üzere nedensellik üzerine pek çok yayını var ve bu konuda dünyadaki en önemli figürlerden biri. Aşağıdaki video'da nedensellik üzerine bir konuşması var;
 
-<iframe src="https://www.youtube.com/embed/ZaPV1OSEpHw" width="600" height="400"  frameborder="0" allow="allowfullscreen></iframe>
 <iframe width="800" height="600" src="https://www.youtube.com/embed/ZaPV1OSEpHw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Kaynakça:
