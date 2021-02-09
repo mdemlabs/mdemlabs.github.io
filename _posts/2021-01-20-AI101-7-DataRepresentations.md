@@ -9,13 +9,13 @@ title: Verilere farklı şekillerde bakmak
   </kbd>
 </p>
 
-<h3> Verilerden temsilleri öğrenmek </h3>
+<h3> Verilere farklı şekillerde bakmak </h3>
 "Deep Learning with python" kitabında **François Chollet** bu konuyu mükemmel anlatmış:
 
 Makine öğrenimi yapmak için üç şeye ihtiyacımız var:
-1. Giriş veri noktaları — Örneğin, görev konuşma tanıma ise, bu veri noktaları konuşan insanların ses dosyaları olabilir. Görev resim etiketleme ise, bunlar resim olabilir.
-2. Beklenen çıktı örnekleri - Bir konuşma tanıma görevinde bunlar, ses dosyalarının insan tarafından oluşturulmuş transkriptleri olabilir. Bir görüntü görevinde, beklenen çıktılar "köpek", "kedi" vb. Etiketler olabilir.
-3. Algoritmanın iyi bir iş yapıp yapmadığını ölçmenin bir yolu — Bu, algoritmanın mevcut çıktısı ile beklenen çıktı arasındaki mesafeyi belirlemek için gereklidir. Ölçüm, algoritmanın çalışma şeklini ayarlamak için bir geri bildirim sinyali olarak kullanılır. Bu ayarlama adımı (optimizasyon), öğrenme dediğimiz şeydir.
+1. **Giriş veri noktaları** — Örneğin, görev konuşma tanıma ise, bu veri noktaları konuşan insanların ses dosyaları olabilir. Görev resim etiketleme ise, bunlar resim olabilir.
+2. **Beklenen çıktı örnekleri** — Bir konuşma tanıma görevinde bunlar, ses dosyalarının insan tarafından oluşturulmuş transkriptleri olabilir. Bir görüntü görevinde, beklenen çıktılar "köpek", "kedi" vb. Etiketler olabilir.
+3. **Algoritmanın iyi bir iş yapıp yapmadığını ölçmenin bir yolu** — Bu, algoritmanın mevcut çıktısı ile beklenen çıktı arasındaki mesafeyi belirlemek için gereklidir. Ölçüm, algoritmanın çalışma şeklini ayarlamak için bir geri bildirim sinyali olarak kullanılır. Bu ayarlama adımı (optimizasyon), öğrenme dediğimiz şeydir.
 
 Bir makine öğrenimi modeli, girdi verilerini anlamlı çıktılara dönüştürmek için kullanılır. Bu nedenle, makine öğrenimi ve derin öğrenmedeki temel sorun, verileri anlamlı bir şekilde dönüştürmektir: başka bir deyişle, eldeki girdi verilerinin yararlı temsillerini - bizi beklenen çıktıya yaklaştıran temsilleri - öğrenmek. 
 
