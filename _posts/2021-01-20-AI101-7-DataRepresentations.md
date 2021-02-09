@@ -8,7 +8,6 @@ title: Verilere farklı şekillerde bakmak
     <img src="/images2/ML_vs_DL.png" width="800">
   </kbd>
 </p>
-<br>[Image source: HBR, How to win with ML](https://bluehexagon.ai/blog/what-is-deep-learning-and-how-is-it-different-from-machine-learning/)
 
 <h3> Verilerden temsilleri öğrenmek </h3>
 "Deep Learning with python" kitabında **François Chollet** bu konuyu mükemmel anlatmış:
