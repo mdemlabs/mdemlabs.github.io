@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Makine Öğrenmesi
+title: Makine Öğrenmesi Nedir?
 ---
 
 ![](/images/ML_sampleUseCase1.png)
