@@ -47,11 +47,17 @@ Derin öğrenme, makine öğreniminin belirli bir alt alanıdır: giderek anlaml
 
 <p>
   <kbd>
-    <img src="/images2/DeepLvideo.gif" width="600">
+    <img src="/images2/DL_Layers.png" width="800">
   </kbd>
 </p>
 
 Derin öğrenmede, bu katmanlı temsiller birbirinin üzerine yığılmış gerçek katmanlarda yapılandırılmış sinir ağları adı verilen modelleri oluşturur. Sinir ağı terimi, nörobiyolojiye bir göndermedir, ancak derin öğrenmedeki bazı temel kavramlar kısmen beyin anlayışımızdan ilham alınarak geliştirilmiş olsa da, derin öğrenme modelleri beynin modelleri değildir. Beynin, modern derin öğrenme modellerinde kullanılan öğrenme mekanizmalarına benzer herhangi bir şeyi uyguladığına dair hiçbir kanıt yoktur. Derin öğrenmenin beyin gibi çalıştığını veya beyinden sonra modellendiğini iddia eden popüler bilim makalelerine rastlayabilirsiniz, ancak durum bu değil. Alana yeni başlayanlar için derin öğrenmenin herhangi bir şekilde nörobiyoloji ile ilgili olduğunu düşünmek kafa karıştırıcı ve ters etki yaratabilir; "tıpkı zihnimiz gibi" mistik ve gizem örtüsüne ihtiyacımız yok ve derin öğrenme ile biyoloji arasındaki varsayımsal bağlantılar hakkında okuduğumuz her şeyi sorgulamalıyız. Amaçlarımız doğrultusunda, derin öğrenme, verilerden temsilleri öğrenmek için matematiksel bir çerçevedir.
+
+<p>
+  <kbd>
+    <img src="/images2/DeepLvideo.gif" width="800">
+  </kbd>
+</p>
 
 Karmaşık konuları görselleştirek açıklamak konusunda belki de en başarılı Youtube kanalı **3Blue1Brown**, sinir ağları ve derin öğrenme konusunda da harika bir iş çıkarmış: 
 
