@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Verilere farklı şekillerde bakmak
+title: Verilerin temsillerinden öğrenmek
 ---
 
 <p>
@@ -9,7 +9,7 @@ title: Verilere farklı şekillerde bakmak
   </kbd>
 </p>
 
-Maköne öğrenmesi yöntemlerinin temelinde yatan fikir, elimizdeki verileri kullanarak girdiler ile çıktılar arasında bir korelasyon kurmak. Böylece bunu matematiksel bir ifadeye yani bir model'e dönüştürebiliyoruz. Fakat bunu algoritmik yada istatistiksel yöntemler kullanarak yapmak her zaman mümkün olmuyor; istediğimiz hassasiyete sahip modeller oluşturamıyoruz. Bu noktada Derin öğrenme devreye giriyor ve girdileri doğrudan istatistiksel yöntemler ile çıktıya adreslemek yerine ara katmanlar oluşturarak, verileri kademe kademe dönüştürerek girdiler ile çıktılar arasındaki kalıpları oluşturuyoruz. Bunun için sınir ağları (neural networks) denilen mekanizmaları kullanıyoruz.
+Makine öğrenmesi yöntemlerinin temelinde yatan fikir, elimizdeki verileri kullanarak girdiler ile çıktılar arasında bir korelasyon kurmak. Böylece bunu matematiksel bir ifadeye yani bir model'e dönüştürebiliyoruz. Fakat bunu algoritmik yada istatistiksel yöntemler kullanarak yapmak her zaman mümkün olmuyor; istediğimiz hassasiyete sahip modeller oluşturamıyoruz. Bu noktada Derin öğrenme devreye giriyor ve girdileri doğrudan istatistiksel yöntemler ile çıktıya adreslemek yerine ara katmanlar oluşturarak, verileri kademe kademe dönüştürerek girdiler ile çıktılar arasındaki kalıpları oluşturuyoruz. Bunun için sınir ağları (neural networks) denilen mekanizmaları kullanıyoruz.
 
 Derin öğrenme konusuna geçmeden önce verilerin temsillerini (representation) oluşturmak konusuna bakmakta fayda var. "Deep Learning with python" kitabında **François Chollet** bu konuyu mükemmel anlatmış:
 
