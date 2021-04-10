@@ -45,17 +45,11 @@ Nöronlar, çeşitli formları olmasına rağmen, hepsi aksonlar boyunca dendrit
 
 <p>
   <kbd>
-    <img src="/images3/Chemical_synapse_schema.jpg" width="300">
+    <img src="/images3/neurons.gif">
   </kbd>
 </p>
 
 Bireysel biyolojik nöronlar oldukça basit bir şekilde davranıyor gibi görünüyorlar, ancak her biri tipik olarak binlerce başka nörona bağlı olan milyarlarca nörondan oluşan geniş bir ağda organize edilmişlerdir. Oldukça karmaşık hesaplamalar, karmaşık bir karınca yuvasının basit karıncaların birleşik çabalarından ortaya çıkması gibi, oldukça basit nöronlardan oluşan geniş bir ağ tarafından gerçekleştirilebilir. Biyolojik sinir ağlarının mimarisi hala aktif araştırmanın konusudur, ancak beynin bazı kısımları haritalandırılmıştır ve görünen o ki, nöronlar genellikle ardışık katmanlar halinde düzenlenmiştir.
-
-<p>
-  <kbd>
-    <img src="/images3/neurons.gif">
-  </kbd>
-</p>
 
 
 #### Yapay Sinir Ağları Mimarisi
