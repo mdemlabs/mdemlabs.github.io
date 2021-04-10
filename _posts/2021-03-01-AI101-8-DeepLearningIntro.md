@@ -3,7 +3,7 @@ layout: post
 title: Derin Öğrenmeye Giriş
 ---
 
-Son 10 yıldır Yapay Zeka alanını domine eden Derin Öğrenme konusuna girişi, bu konunun öncüleri olan Yann LeCun, Yoshua Bengio ve Geoffrey Hinton'ın Nature dergisine 2017 yılında yazdıkları bir makalenin giriş paragrafında yaptıkları tanıma göz atarak başlayalım:
+Son 10 yıldır Yapay Zeka alanını domine eden Derin Öğrenme konusuna girişi, bu konunun öncüleri olan Yann LeCun, Yoshua Bengio ve Geoffrey Hinton'ın Nature dergisine 2015 yılında yazdıkları bir makalenin giriş paragrafında yaptıkları tanıma göz atarak başlayalım:
 
 " *Derin öğrenme, birden çok işleme katmanından oluşan hesaplama modellerinin, birden çok soyutlama düzeyiyle verilerin temsillerini öğrenmesine olanak tanır... Derin öğrenme, bir makinenin önceki katmandaki temsilden her katmandaki gösterimi hesaplamak için kullanılan dahili parametrelerini nasıl değiştirmesi gerektiğini belirtmek için geri yayılım algoritmasını kullanarak büyük veri kümelerindeki karmaşık yapıyı keşfeder...*"
 
@@ -141,6 +141,12 @@ Bir sinir ağı ile bir tahmin yapmak için, sinir ağındaki tüm parametreleri
 
 Bir sinir ağının birbirine bağlı birkaç katmanı vardır. Her katmanın optimize etmek istediğimiz bir dizi eğitilebilir parametresi olacaktır. Bir sinir ağını optimize etmek, geri yayılım (Back propogation) adı verilen bir teknik kullanılarak yapılır. Önceki diyagramdaki w1, w2 ve w3 parametrelerinin değerlerini kademeli olarak optimize ederek bir kayıp fonksiyonunun çıktısını en aza indirmeyi hedefliyoruz.
 
+<p>
+  <kbd>
+    <img src="/images3/Weight_update.png" width="400">
+  </kbd>
+</p>
+
 Bir sinir ağı için kayıp işlevi birçok şekilde olabilir. Tipik olarak, beklenen çıktı, Y ve sinir ağı tarafından üretilen gerçek çıktı -şapkalı Y- arasındaki farkı ifade eden bir fonksiyon seçeriz. Örneğin: aşağıdaki kayıp fonksiyonunu kullanabiliriz:
 
 <p>
@@ -171,3 +177,7 @@ Geri yayılım sürecinin bir geçişini gerçekleştirdiğimizde, parametreler 
 
 Gradyan-iniş algoritmasında sadece küçük adımlar atarak, sinir ağı parametrelerinin (ağırlıklar) optimum değerlerine ulaşmak için bu işlemi defalarca tekrar etmemiz gerekir.
 
+Kaynakça:
+1. ["Deep Learning", Yann LeCun, Yoshua Bengio ve Geoffrey Hinton](https://www.nature.com/articles/nature14539)
+2. ["Make Your Own Neural Network", Tariq Rashid](https://www.amazon.com/Make-Your-Own-Neural-Network/dp/1530826608)
+3. ["Python Machine Learning", Sebastian Raschka](https://www.amazon.com/Python-Machine-Learning-scikit-learn-TensorFlow/dp/1787125939)
