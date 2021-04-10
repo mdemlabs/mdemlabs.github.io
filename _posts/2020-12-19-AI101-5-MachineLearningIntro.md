@@ -3,8 +3,6 @@ layout: post
 title: Makine Öğrenmesi Nedir?
 ---
 
-<h3> Makine Öğrenmesi nedir? </h3>
-
 Makine öğrenimi şu sorudan doğar: Bir bilgisayar, belirli bir görevi nasıl gerçekleştireceğini kendi başına öğrenebilir mi? Veri işleme kurallarını kodlayan programcılar olmaksizin, bir bilgisayar bu kuralları verilere bakarak otomatik olarak öğrenebilir mi?
 
 Bu soru yeni bir programlama paradigmasının kapısını açıyor. Klasik programlamada, sembolik yapay zeka paradigması, insan girdi kuralları (bir program) ve bu kurallara göre işlenecek veriler ve cevaplar ortaya çıkar. Makine öğrenimiyle, insanlar verinin yanı sıra verilerden beklenen yanıtları da girer ve kurallar ortaya çıkar. Bu kurallar daha sonra orijinal cevaplar üretmek için yeni verilere uygulanabilir.
