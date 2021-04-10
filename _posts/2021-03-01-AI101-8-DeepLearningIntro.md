@@ -141,7 +141,7 @@ Bir sinir ağı ile bir tahmin yapmak için, sinir ağındaki tüm parametreleri
 
 Bir sinir ağının birbirine bağlı birkaç katmanı vardır. Her katmanın optimize etmek istediğimiz bir dizi eğitilebilir parametresi olacaktır. Bir sinir ağını optimize etmek, geri yayılım (Back propogation) adı verilen bir teknik kullanılarak yapılır. Önceki diyagramdaki w1, w2 ve w3 parametrelerinin değerlerini kademeli olarak optimize ederek bir kayıp fonksiyonunun çıktısını en aza indirmeyi hedefliyoruz.
 
-Bir sinir ağı için kayıp işlevi birçok şekilde olabilir. Tipik olarak, beklenen çıktı, Y ve sinir ağı tarafından üretilen gerçek çıktı arasındaki farkı ifade eden bir işlev seçeriz. Örneğin: aşağıdaki kayıp fonksiyonunu kullanabiliriz:
+Bir sinir ağı için kayıp işlevi birçok şekilde olabilir. Tipik olarak, beklenen çıktı, Y ve sinir ağı tarafından üretilen gerçek çıktı -şapkalı Y- arasındaki farkı ifade eden bir fonksiyon seçeriz. Örneğin: aşağıdaki kayıp fonksiyonunu kullanabiliriz:
 
 <p>
   <kbd>
@@ -149,7 +149,7 @@ Bir sinir ağı için kayıp işlevi birçok şekilde olabilir. Tipik olarak, be
   </kbd>
 </p>
 
-Öncelikle sinir ağı ile başlatılır. Bunu modeldeki tüm parametreler (ağırlıklar) için rastgele değerlerle yapabiliriz.
+Öncelikle sinir ağı eğitim verileri ile başlatılır. Bunu modeldeki tüm parametreler (ağırlıklar) için rastgele değerlerle yapabiliriz.
 
 Sinir ağını başlattıktan sonra, bir tahmin yapmak için verileri sinir ağına besliyoruz. Daha sonra, modelin olmasını beklediğimiz şeye ne kadar yakın olduğunu ölçmek için tahmini çıktıyla birlikte bir kayıp fonksiyonuna besleriz.
 
