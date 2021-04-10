@@ -3,9 +3,6 @@ layout: post
 title: Makine Öğrenmesi Nedir?
 ---
 
-![](/images/ML_sampleUseCase1.png)
-<br>[Image source: Jay Alammar, QCON 2020 London speech](https://www.infoq.com/presentations/ml-dl-visual-intro/?utm_source=presentations&utm_medium=london&utm_campaign=qcon)
-
 <h3> Makine Öğrenmesi nedir? </h3>
 
 Makine öğrenimi şu sorudan doğar: Bir bilgisayar, belirli bir görevi nasıl gerçekleştireceğini kendi başına öğrenebilir mi? Veri işleme kurallarını kodlayan programcılar olmaksizin, bir bilgisayar bu kuralları verilere bakarak otomatik olarak öğrenebilir mi?
@@ -31,6 +28,15 @@ Bir makine öğrenimi sistemi, açıkça programlanmak yerine eğitilir. Bir gö
 2000'li yıllarla beraber büyük veri ve bilgi işlem gücü teknolojilerinin gelişmesi, makine öğrenimi algoritmaları için mükemmel ortamı yarattı. Gerçekten de, bugün AI dediğimiz şeyin tüketiciye yönelik en havalı uygulamalarının çoğu büyük ölçüde makine öğrenimine güveniyor: Siri sesli sanal asistanı, Google Translate, kendi kendine giden arabalar ve daha fazlası:
 1. **Voice Assistants** - Sesli asistanlar her yerde karşımıza çıkabiliyor. En bilinenleri "Apple’s Siri", "Amazon's Alexa" ve "Google Assistant" olarak sıralayabiliriz.
 2. **Smartphone Cameras** - Akıllı telefonların kameralarının her geçen gün gelişen fotoğraf kalitelerinin arkasında makine öğrenmesi teknikleri var. Nesneleri algılamak, arka planı bulanıklaştırmak ve filtreleme işlemleri için görüntüdeki her piksel analiz ediliyor.
+
+<p>
+  <kbd>
+    <img src="/images/ML_sampleUseCase1.png" width="600">
+  </kbd>
+  <br/>
+  <a href="https://www.infoq.com/presentations/ml-dl-visual-intro/?utm_source=presentations&utm_medium=london&utm_campaign=qcon">Image source: Jay Alammar, QCON 2020 London speech</a>
+</p>
+
 3. **Smartphone Face Unlock** - Akıllı telefonumuzu alıyoruz ve yüzümüzü algılayarak kendi kendine açılıyor. Akıllı, verimli, zaman kazandıran bir özellik. 
 4. **Netflix Recommendations** - Netflix'te gördüğünüz her önerilen video bir algoritma tarafından seçilmektedir. Şirket, algoritmaların sağladığı kişiselleştirilmiş servislerin müşteriyi elde tutma konusunda, yılda 1 milyar dolar değer ürettiğini tahmin ediyor.
 5. **Dynamic Pricing** - Müşterilerin artık saniyeler içinde birden çok tedarikçi arasında fiyatları kolayca karşılaştırabildiği e-ticaret çağında, fiyat artık satın alma kararındaki en büyük faktör olarak kabul ediliyor. Uçak ve otel rezervasyonları, online alış-veriş siteleri başta olmak üzere pek çok alanda kullanılmaktadır.
