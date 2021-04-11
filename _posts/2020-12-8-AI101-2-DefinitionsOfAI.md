@@ -22,8 +22,13 @@ Yapay Zeka, insan düşüncesinin ve zeki davranışının altında yatan matema
 
 Öncelikle, AI'dan bahsettiğimizde neyi kastettiğimizi net bir şekilde tanımlamamız gerekir. Yapay zeka, makine öğrenimi ve derin öğrenme nedir? Birbirleriyle nasıl ilişki kurarlar? 
 
-![](/images/AI_ML_DL_coverage.png)
-<br>[Image source: https://www.graymatter.co.uk/thoughts/uncategorized/simple-guide-ai-machine-learning-and-deep-learning](https://www.graymatter.co.uk/thoughts/uncategorized/simple-guide-ai-machine-learning-and-deep-learning)
+<p>
+  <kbd>
+    <img src="/images/AI_ML_DL_coverage.png" width="600"/>
+  </kbd>
+  <br/>
+  <a href="https://www.graymatter.co.uk/thoughts/uncategorized/simple-guide-ai-machine-learning-and-deep-learning">Image Source</a>
+</p>
 
 Günümüzde AI etiketine sahip uygulamaların pek çoğu aslında Robotik Process Automation (RPA) denilen uygulamalar. AI için yapılan tanımlardan biri de, otomasyona atıfta bulunan şu tanımdır: Normalde insanlar tarafından gerçekleştirilen entellektüel görevleri otomatikleştirme çabası. Bu nedenle, AI, makine öğrenimi ve derin öğrenmeyi kapsayan, ancak aynı zamanda herhangi bir öğrenmeyi içermeyen daha birçok yaklaşımı da içeren genel bir alandır.
 
