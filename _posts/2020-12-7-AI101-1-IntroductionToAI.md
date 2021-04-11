@@ -3,9 +3,6 @@ layout: post
 title: Yapay Zeka'ya Giriş
 ---
 
-![](/images/AI_Landscape.png)
-<br>[Image source: https://medium.com/@BangBitTech](https://medium.com/@BangBitTech)
-
 <h3>Yapay Zeka (AI) yada Makine Öğrenmesi (ML) neden bu kadar önemli?</h3>
 
 Sanayi devriminden bu yana neredeyse 300 yıldan fazla bir süredir devam eden ekonomik büyümenin itici gücü teknolojik gelişmeler. Buhar makinasının icadıyla başlayan süreç, sanayi devrimini tetikleyerek fabrikalarda üretiminin insan gücünden makinelere doğru evrilmesini sağladı ve makine çağını başlattı. Daha sonra elektriğin icad edilmesi ve 20. yüzyılın başlarında atom konusunda yapılan çalışmalar ile atom çağı ve sonrasında süper güçlerin uzay yarışı ile başlayan uzay çağını yaşadık. Fakat microchip'lerin gelişmesi ile beraber bilgisayar donanımlarının ucuzlaması ve herkes için ulaşılabilir hale gelmesiyle gerçekleşen Dijital devrim, Bilgi çağını tetiklemiştir. İnternet'in yayılması ağa bağlantılı cihaz sayısının patlamasına yol açmış ve sosyal medya ile beraber fiziksel sınırlar ortadan kalkarak tüm dünya birbiri ile bağlantılı hale gelmiştir. 
@@ -25,6 +22,9 @@ Geçtiğimiz birkaç yıl içinde makine öğrenimi çok daha etkili ve yaygın 
 Bu sorunun cevabı ekonomistlerin "Genel Amaçlı Teknolojiler" dediği teknolojik inovasyonlar: örnek olarak buhar motoru, elektrik ve içten yanmalı motoru içeren bir kategori. Mesela ticarileşen ilk buhar motoru madenlerde suyu tasviye etmek için kullanılırken sonrasında fabrikalarda, trenlerde ve gemilerde kullanılmaya başlamıştır. Benzer şekilde elektriğin icadı her alanda yenilikler için katalizör görevi görmüştür. Internet iletişimde bir devrim yaratarak tüm sınırları ortadan kaldırdı. Her yenilik bir diğerini tetiklemiş ve yeni fırsatlar yaratmıştır. Şirketler teknolojik gelişmelere uygun yeni iş modelleri geliştirerek karlılıklarını artırmış ve rekabette öne geçmenin yolunu da yine, yeni teknolojik gelişmelere yatırım yapmakta bulmuşlardır. Günümüzde Apple yada Google gibi büyük teknoloji şirketlerinin ArGe harcamaları pek çok dünya ülkesinin ArGe bütçesini aşmaktadır.
 
 Bu yüzyılın en önemli Genel Amaçlı Teknoloji'si AI'dır ve hatta özellikle makine öğrenimidir (ML) diyebiliriz. İş dünyasında, yapay zeka, önceki genel amaçlı teknolojiler ölçeğinde dönüşümsel bir etkiye sahip olacaktır. Binlerce şirkette zaten kullanılmasına rağmen, uzmanlar bunun sadece bir başlangıç olduğunu ve gerçek potansiyelin henüz ortaya çıkmadığını düşünüyor. Her sektör, temel süreçlerini ve iş modellerini avantajlarından yararlanmak için dönüştürdükçe, yapay zekanın etkileri önümüzdeki on yılda daha da artacak. 
+
+![](/images/AI_Landscape.png)
+<br>[Image source: https://medium.com/@BangBitTech](https://medium.com/@BangBitTech)
 
 <h3>Yapay Zeka ve Makine Öğrenmesi neredeyse yarım asırdır üzerinde bilim insanlarının çalıştığı konular. Peki neden son yıllarda bu kadar populer oldular?</h3>
 
