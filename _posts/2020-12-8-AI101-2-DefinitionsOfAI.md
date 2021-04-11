@@ -2,15 +2,18 @@
 layout: post
 title: Yapay Zeka'nın tanımı ve kısa tarihçesi
 ---
-<p>
-  <kbd>
-    <img src="/images/HeaderPicture2.png" width="1000"/>
-  </kbd>
-</p>
 
 <h3> Yapay Zeka nedir? </h3>
 
-Yapay zeka (AI), geleneksel olarak algılama, arama, planlama ve öğrenme gibi bilişsel yetenekleri sergileyen herhangi bir yazılım parçasıdir. Yapay Zeka'yı akıllıca davranan sistemlerin incelenmesi ve taklit edilmesi amacıyla oluşturulan bir dizi kural, yöntem ve teknik olarak da tanımlayabiliriz. İnsan düşüncesinin ve zeki davranışının altında yatan matematiksel ilkelerin tespit edilerek komplex problemlerin çözümünde kullanılmasıdır. Bunu başarmak için, araştırmacılar Psikoloji, Matematik, Sinirbilim (Neuroscience), Bilişsel Bilim (Cognitive Science), Sosyoloji, Felsefe ve Bilgisayar Bilimleri alanlarından bilgi, model ve teknikleri ödünç alırlar. Tanım oldukça belirsizdir, ancak bunun nedeni, yapay zekanın kapsadığı birçok alt alan ve uygulamaya sahip olmasıdır. Uygulama alanlarından bazıları şunlardır:
+Yapay zeka (AI), geleneksel olarak algılama, arama, planlama ve öğrenme gibi bilişsel yetenekleri sergileyen herhangi bir yazılım parçasıdir. Yapay Zeka'yı akıllıca davranan sistemlerin incelenmesi ve taklit edilmesi amacıyla oluşturulan bir dizi kural, yöntem ve teknik olarak da tanımlayabiliriz. 
+
+<p>
+  <kbd>
+    <img src="/images/HeaderPicture2.png" width="600"/>
+  </kbd>
+</p>
+
+Yapay Zeka, insan düşüncesinin ve zeki davranışının altında yatan matematiksel ilkelerin tespit edilerek komplex problemlerin çözümünde kullanılmasıdır. Bunu başarmak için, araştırmacılar Psikoloji, Matematik, Sinirbilim (Neuroscience), Bilişsel Bilim (Cognitive Science), Sosyoloji, Felsefe ve Bilgisayar Bilimleri alanlarından bilgi, model ve teknikleri ödünç alırlar. Tanım oldukça belirsizdir, ancak bunun nedeni, yapay zekanın kapsadığı birçok alt alan ve uygulamaya sahip olmasıdır. Uygulama alanlarından bazıları şunlardır:
 * Bir arama motoru tarafından döndürülen sayfalar
 * Bir GPS uygulaması tarafından oluşturulan rota
 * Akıllı asistan yazılımının ses tanıma ve sentetik ses yetenekleri
