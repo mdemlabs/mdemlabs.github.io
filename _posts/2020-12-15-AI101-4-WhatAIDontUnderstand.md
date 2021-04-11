@@ -3,12 +3,17 @@ layout: post
 title: Yapay Zeka Henüz Neyi Yapamıyor?
 ---
 
-![](/images2/why.jpg)
-
 <h3> Korelasyon nedensellik değildir! </h3>
+
 On yıldan daha kısa bir süre içinde, bilgisayarlar hastalıkları teşhis etmede, dilleri tercüme etmede ve konuşmayı yazıya dökmede son derece başarılı hale geldi. Karmaşık strateji oyunlarında insanları geride bırakabiliyor, trafikte insan sürücü olmaksızın arabalar gidebiliyor yada gerçekliğinden şüphe edilmeyecek kadar sahici insan yüzleri oluşturabiliyor.
 
-<br>Yine de bu etkileyici başarılara rağmen, yapay zekanın göze çarpan zayıflıkları var.
+<p>
+  <kbd>
+    <img src="/images2/why.jpg" width="600">
+  </kbd>
+</p>
+
+Yine de bu etkileyici başarılara rağmen, yapay zekanın göze çarpan zayıflıkları var.
 
 Günümüzde iş ve endüstride uygulanan yapay zeka, nedenleri değil korelasyonları bulur. İnsanlar neden sonuç ilişkisi kurmaya odaklıdır. Belirli bir sistemin nasıl çalıştığını bilmeseler bile, genellikle o sistemin nasıl çalıştığına dair bir teorisi, modeli vardır. İnşa edilen modeller, insanların sebep ve sonuç hakkında akıl yürütmesini mümkün kılar. Biz böyle çalıştığımız için, AI'nın da bu şekilde çalıştığını varsayma eğilimindeyiz. Bu doğru değil. Bir insan olarak bizler nedenler hakkında akıl yürütebiliriz, ancak bugün uygulandığı gibi Yapay Zeka kendi başına nedensel ilişkiler kuramaz.
 
