@@ -1,0 +1,58 @@
+I"8%<p>Makine öğrenimi şu sorudan doğar: Bir bilgisayar, belirli bir görevi nasıl gerçekleştireceğini kendi başına öğrenebilir mi? Veri işleme kurallarını kodlayan programcılar olmaksizin, bir bilgisayar bu kuralları verilere bakarak otomatik olarak öğrenebilir mi?</p>
+
+<p>Bu soru yeni bir programlama paradigmasının kapısını açıyor. Klasik programlamada, sembolik yapay zeka paradigması, insan girdi kuralları (bir program) ve bu kurallara göre işlenecek veriler ve cevaplar ortaya çıkar. Makine öğrenimiyle, insanlar verinin yanı sıra verilerden beklenen yanıtları da girer ve kurallar ortaya çıkar. Bu kurallar daha sonra orijinal cevaplar üretmek için yeni verilere uygulanabilir.</p>
+
+<p>Makine öğreniminin ilk tanımı, Amerikan yapay zeka öncüsü Arthur Samuel’e (1959) kadar uzanıyor: “Makine öğrenimi, bilgisayarlara açıkça programlanmadan öğrenme yeteneği veren çalışma alanıdır”. Buradaki temel unsurlar, açıkça programlanmadan öğrenmedir.</p>
+
+<p>Bir bilgisayarı açıkça programlamak, belirli bir görevi gerçekleştirmek için uyması gereken kuralları ve talimatları tanımlamak anlamına gelir. Bu, yazılım mühendislerinin geliştirdiği öğrenme yeteneği olmayan her türlü uygulamayı yazarken yaptığı şeydir. Fakat her zaman kuralları tanımlamak ilk bakışta mümkün değildir. Bazı önemsiz eylemleri gerçekleştirirken verdiğiniz çeşitli kararlar hakkında düşünelim: Arkadaşlarınızı gördüğünüzde tanımak için izlediğiniz süreci açıklayabilir misiniz? Araba sürerken verdiğiniz tüm anlık kararlar? Konuşurken uyguladığın tüm İngilizce gramer kurallarını listeleyebilir misin? Bir şeyi nasıl yaptığınızı tam olarak açıklayamıyorsanız, bir bilgisayara onu yapması için talimat verme şansınız yoktur.</p>
+
+<p>Artur Samuel, “talimat verilen bilgisayarları” “onlara öğrenme yeteneği vermek” ile değiştirmeyi önerdi. Aslında talimatlara uymak yerine öğrenmek, İnsanların her zaman yaptığı şeydir. Annelerimiz ve babalarımız, henüz bir yaşında bize gramer kitapları vererek ana dillerini öğretmiyorlar. Bizimle sadece doğal bir şekilde konuşuyorlar ve biz onların örneklerinden öğreniyoruz, binlerce gramer kuralını bilmeden uyguluyoruz. Aslında beynimiz, okulda dilbilgisini rasyonel bir şekilde anlayabilmeden çok önce kuralları otomatik olarak çıkarma yeteneğine sahip. Biz insanlar için bile, örneklerden kuralları öğrenmek, hem doğal hem de daha kolay olabilir gibi görünüyor. Aşağıdaki şekil geleneksel programlama ve makine öğrenimi arasındaki farkı göstermektedir.</p>
+
+<p><img src="/images2/ClassicProgrammingVSmachineLearning.png" alt="" />
+<br /><a href="https://www.manning.com/books/zero-to-ai#:~:text=About%20the%20book,AI%20to%20shape%20their%20industries">Image source: “Zero to AI”, Gianluca Mauro &amp; Nicolo Valigi</a></p>
+
+<p>Bir makine öğrenimi sistemi, açıkça programlanmak yerine eğitilir. Bir görevle ilgili birçok örnek sunulur ve bu örneklerde, görevi otomatikleştirmek için kurallar oluşturmaya izin veren kalıplar, istatistiksel metodlar uygulanarak bulunur. İnsanların deneyimlerden öğrendiği gibi, makine öğrenimi teknikleri de bilgisayarların verilerden öğrenmesini sağlar. Mesela, bir bilgisayara kediler ve köpekleri resimlerle ayırt etmeyi öğretmek. Verilen resimdeki canlının kedi mi yoksa köpek mi olduğu sorusuna yönelik bir makine öğrenmesi çözümü, çocukluk öğrenme deneyimlerimize benzer. Bilgisayarı binlerce kedinin resmiyle besliyoruz ve ona “bunlar kedi” diyoruz ve sonra binlerce köpek resmi ve “bunlar köpek” diyoruz. Son olarak, iki evcil hayvan arasındaki farkı otomatik olarak bulmasına izin veriyoruz. Köpekleri kedilerden ayıran temel unsurları açıklamamıza gerek yok. İyi bir makine öğrenimi uygulaması bunu aldığı örneklerden anlamayı öğrenir.</p>
+
+<p><img src="/images2/catVSdog.gif" alt="" />
+<br /><a href="https://github.com/ReiCHU31/Cat-Dog-Classification-Flask-App">Image source: https://github.com/ReiCHU31/Cat-Dog-Classification-Flask-App</a></p>
+
+<h3>Makine öğrenmesi uygulama alanları</h3>
+
+<p>2000’li yıllarla beraber büyük veri ve bilgi işlem gücü teknolojilerinin gelişmesi, makine öğrenimi algoritmaları için mükemmel ortamı yarattı. Gerçekten de, bugün AI dediğimiz şeyin tüketiciye yönelik en havalı uygulamalarının çoğu büyük ölçüde makine öğrenimine güveniyor: Siri sesli sanal asistanı, Google Translate, kendi kendine giden arabalar ve daha fazlası:</p>
+<ol>
+  <li><strong>Voice Assistants</strong> - Sesli asistanlar her yerde karşımıza çıkabiliyor. En bilinenleri “Apple’s Siri”, “Amazon’s Alexa” ve “Google Assistant” olarak sıralayabiliriz.</li>
+  <li><strong>Smartphone Cameras</strong> - Akıllı telefonların kameralarının her geçen gün gelişen fotoğraf kalitelerinin arkasında makine öğrenmesi teknikleri var. Nesneleri algılamak, arka planı bulanıklaştırmak ve filtreleme işlemleri için görüntüdeki her piksel analiz ediliyor.</li>
+</ol>
+
+<p>
+  <kbd>
+    <img src="/images/ML_sampleUseCase1.png" width="600" />
+  </kbd>
+  <br />
+  <a href="https://www.infoq.com/presentations/ml-dl-visual-intro/?utm_source=presentations&amp;utm_medium=london&amp;utm_campaign=qcon">Image source: Jay Alammar, QCON 2020 London speech</a>
+</p>
+
+<ol>
+  <li><strong>Smartphone Face Unlock</strong> - Akıllı telefonumuzu alıyoruz ve yüzümüzü algılayarak kendi kendine açılıyor. Akıllı, verimli, zaman kazandıran bir özellik.</li>
+  <li><strong>Netflix Recommendations</strong> - Netflix’te gördüğünüz her önerilen video bir algoritma tarafından seçilmektedir. Şirket, algoritmaların sağladığı kişiselleştirilmiş servislerin müşteriyi elde tutma konusunda, yılda 1 milyar dolar değer ürettiğini tahmin ediyor.</li>
+  <li><strong>Dynamic Pricing</strong> - Müşterilerin artık saniyeler içinde birden çok tedarikçi arasında fiyatları kolayca karşılaştırabildiği e-ticaret çağında, fiyat artık satın alma kararındaki en büyük faktör olarak kabul ediliyor. Uçak ve otel rezervasyonları, online alış-veriş siteleri başta olmak üzere pek çok alanda kullanılmaktadır.</li>
+  <li><strong>Google Maps</strong> - Google Maps uygulaması en efektif rotayı ve alternatiflerini hesaplarken yada tahmini varış süresi ve trafik yoğunluğu bilgileri için makine öğrenmesi tekniklerinden yararlanır.</li>
+  <li><strong>Email Filtering</strong> - Örnek olarak Gmail gelen mailin spam olup olmadığına makine öğrenmesi ile karar verir. Ayrıca mailleri konu başlıklarını inceleyerek otomatik olarak 3 sınıfa ayırabilir: Birincil (Primary), sosyal (social) ve promotion (promosyon).</li>
+  <li><strong>Google Translate</strong> - Belki de en yaygın kullanılan makine öğrenmesi uygulaması, teşekkürler Google!..</li>
+  <li><strong>Customer Support Queries/Chatbots</strong> - Bugünlerde neredeyse her müşteri destek uygulamasında makine öğrenmesi teknikleri karşımıza çıkıyor. Sesli uygulamalarda makine öğrenimi gelen mesajı yada soruyu uygun destek elemanına yönlendirmek için kullanılır. Metin tabanlı sorgular ise, artık neredeyse yalnızca sohbet robotları (chatbots) tarafından ele alınmaktadır. Neredeyse tüm işletmeler artık sitelerinde bu sohbet robotlarından yararlanıyor.</li>
+  <li><strong>Video Surveillence</strong> - Küresel olarak devletler ve kuruluşlar, davetsiz misafirleri ve olası tehditleri tespit etmek, suçluları yakalamak gibi çeşitli görevler için makine öğrenmesi tabanlı video gözetimini kullanıyor.</li>
+  <li><strong>Catching Fraud in Banking</strong> - Hiç kredi kartı dolandırıcılığının kurbanı oldunuz mu?.. Makine öğrenimi algoritmaları, dolandırıcılık tespitinden dolandırıcılığı önlemeye kadar, bankaların müşteri deneyimini iyileştirmek için çalışma şeklini değiştiriyor.</li>
+  <li><strong>Self Driving Cars</strong> - Donanım ve makine öğrenimi açısından teknolojinin ortaya koyduğu belki de en inanılmaz ve en hayranlık verici uygulama alanıdır.</li>
+  <li><strong>Identifying Diseases and Diagnosis</strong> - Sağlık hizmetlerinde başlıca ML uygulamalarından biri, başka türlü teşhis edilmesi zor kabul edilen hastalıkların ve rahatsızlıkların tanımlanması ve teşhisidir. Bu, ilk aşamalarda yakalanması zor olan kanser ve diğer genetik hastalıklara kadar her şeyi içerebilir. IBM Watson Genomics, makine öğreniminin genom tabanlı tümör dizilimi ile bütünleştirilmesinin hızlı tanı koymaya nasıl yardımcı olabileceğinin en iyi örneğidir</li>
+</ol>
+
+<p><br />ve çok daha fazlası……..</p>
+
+<p>Kaynakça:</p>
+<ol>
+  <li><a href="https://www.manning.com/books/zero-to-ai#:~:text=About%20the%20book,AI%20to%20shape%20their%20industries">“Zero to AI”, Gianluca Mauro &amp; Nicolo Valigi</a></li>
+  <li><a href="https://www.manning.com/books/deep-learning-with-python">“Deep Learning with Python”, François Chollet</a></li>
+  <li><a href="https://en.wikipedia.org/wiki/Machine_learning">Machine learning - Wikipedia</a></li>
+  <li><a href="https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1492032646">“Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow”, Aurellion Geron</a></li>
+</ol>
+:ET

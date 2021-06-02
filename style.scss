@@ -23,8 +23,15 @@ body {
   color: $darkGray;
 }
 
+.containerhead {
+  background: $white;
+  //margin: 0 auto;
+  //max-width: 1000px;
+  //padding: 0 10px;
+  width: 100%;
+}
+
 .container {
-  background: $green;
   margin: 0 auto;
   max-width: 1000px;
   padding: 0 10px;
@@ -157,8 +164,12 @@ img {
 
 .masthead {
   padding: 50px 0;
-  background: $gray;
-  border-bottom: 1px solid $darkerGray;
+  //background: #4285f4; --google blue
+  //background: #006699; --ibm blue
+  //background: #3B5998; --Facebook blue
+  background: #004883; //pepsi blue
+  //background: #003399; //ikea blue
+  //border-bottom: 1px solid $darkerGray;
 
   @include mobile {
     text-align: center;
@@ -167,14 +178,16 @@ img {
 
 .site-avatar {
   float: left;
-  width: 70px;
-  height: 70px;
+  width: 200px;
+  height: 100px;
   margin-right: 15px;
+  margin-left: 15px;
+  margin-bottom: 15px;
 
   @include mobile {
     float: none;
     display: block;
-    margin: 0 auto;
+    margin: 50 auto;
   }
 
   img {
@@ -194,17 +207,24 @@ img {
 
 .site-name {
   margin: 0;
-  color: $darkGray;
-  cursor: pointer;
+  color: $white;
   font-family: $helveticaNeue;
-  font-weight: 300;
-  font-size: 28px;
+  font-weight: 500;
+  font-size: 40px;
   letter-spacing: 1px;
+  cursor: pointer;
+
+  a {
+    cursor: pointer;
+    &:hover, &:active {
+      color: black;
+    }
+  }
 }
 
 .site-description {
   margin: -5px 0 0 0;
-  color: $gray;
+  color: $lightGray;
   font-size: 16px;
 
   @include mobile {
@@ -214,7 +234,8 @@ img {
 
 nav {
   float: right;
-  margin-top: 23px; // @TODO: Vertically middle align
+  margin-top: 50px; // @TODO: Vertically middle align
+  margin-right: 50px;
   font-family: $helveticaNeue;
   font-size: 18px;
 
@@ -227,10 +248,14 @@ nav {
 
   a {
     margin-left: 20px;
-    color: $darkGray;
+    color: $white;
     text-align: right;
     font-weight: 300;
     letter-spacing: 1px;
+    cursor: pointer;
+    &:hover, &:active {
+      color: black;
+    }
 
     @include mobile {
       margin: 0 10px;

@@ -1,0 +1,91 @@
+I"25<p>Makine öğrenmesinin en temel bileşenleri Veri Seti, Algoritma ve Model’dir.
+<br /></p>
+
+<p>Veri Seti - Makinelerin çalışması, onlardan bir şeyler öğrenmesi ve nihayetinde buna dayanarak kararlar vermesi için çok fazla veriye ihtiyacı vardır. Bu veriler, nümerik değer, ses, görüntü, metin yada işlenebilen ve analiz edilebilen herhangi bir veri olabilir. Bir veri seti, farklı ortamlarda yakalanan benzer bir türe ait konsolide bir veridir. Örneğin, kağıt paraları tanımak için oluşturulan bir veri setinde, paraların sınıflandırılması ve tanımlanmasında maksimum doğruluk elde etmek için farklı yönlerde, ışıkta, mobil kameralarda ve arka planda yakalanan para görüntülerine ihtiyaç vardır.</p>
+
+<p>Veri seti, makine öğrenmesi modelini eğitmek, doğrulamak ve test etmek için kullanılır. Veri seti ne kadar büyükse ve içerdiği veriler çeşitli ise, model için öğrenme fırsatları daha iyidir, sonuçlarda doğruluk elde etme şansı daha yüksektir.</p>
+
+<p>Algoritmalar - Bir algoritmayı, bir veri setini bir modele dönüştüren matematiksel veya mantıksal bir program olarak düşünebiliriz. Modelin çözmeye çalıştığı problemin türüne, mevcut kaynaklara ve verilerin doğasına bağlı olarak seçilebilecek farklı algoritma türleri vardır. Makine öğrenimi algoritmaları, bir model olarak önceden belirlenmiş bir denkleme dayanmadan bilgileri doğrudan verilerden “öğrenmek” için istatistiksel hesaplama yöntemlerini kullanır.</p>
+
+<p>Modeller - Makine öğreniminde bir model, gerçek dünya süreçlerinin hesaplamalı bir temsilidir. Bir ML modeli, ilgili algoritmaları kullanarak onu bir veri kümesi üzerinden eğiterek elde ettiğimiz bir tür tahmin algoritmasıdır. Modeli eğittikten sonra, daha önce görmediği veriler üzerinde mantık yürütmek ve bu veriler hakkında tahminlerde bulunmak için onu kullanabiliriz. Örneğin, bir kullanıcının duygularını yüz ifadelerine göre tanıyan bir uygulama oluşturmak istediğimizi varsayalım. Her biri belirli bir duyguyla etiketlenmiş yüz görüntülerini sağlayarak bir modeli eğitebilir ve daha sonra bu modeli herhangi bir kullanıcının duygusunu tanıyan bir uygulamada kullanabilirsiniz.</p>
+
+<h3>Makine Öğrenimi Yöntemleri</h3>
+<p>Makine öğrenimi yöntemleri 3 ana kategoriye ayrılır:</p>
+<p>
+  <kbd>
+    <img src="/images2/ML_types_summary.jpeg" width="600" />
+  </kbd>
+</p>
+
+<p><strong>Denetimli öğrenme (Supervised Learning)</strong>, etiketli verilerden öğrenme görevidir. SL’de, bir insan hangi verilerin toplanacağına ve nasıl etiketleneceğine karar verir. SL’de amaç genellemektir. Klasik bir SL örneği, el yazısıyla yazılmış bir rakam tanıma uygulamasıdır: Bir insan, el yazısıyla yazılmış rakamlar içeren resimleri toplar, bu resimleri etiketler yani hangi resmin hangi rakama karşılık geldiğini belirler. Başka bir deyişle tasarlanan model’in girdisini ve karşılığında üretmesi beklenen çıktıyı eşleştirir. Sonra bu veri setini kullanarak resimlerdeki rakamları doğru bir şekilde tanımak ve sınıflandırmak için bir model eğitir. Eğitilen modelin yeni görüntülerde el yazısı rakamlarını doğru bir şekilde sınıflandırması beklenir.</p>
+
+<p>Denetimli öğrenme, diğer makine öğrenimi yöntemlerine göre daha az eğitim verisi gerektirir ve modelin sonuçları gerçek etiketli sonuçlarla karşılaştırılabildiğinden eğitimi kolaylaştırır. Ancak, uygun şekilde etiketlenmiş verilerin hazırlanması pahalıdır ve aşırı uygunluk veya yeni verilerdeki varyasyonları doğru bir şekilde işlemeyecek kadar eğitim verilerine çok yakından bağlı ve önyargılı bir model oluşturma tehlikesi vardır.</p>
+
+<p>Tipik bir denetimli öğrenme görevi <strong>sınıflandırma</strong>‘dır. İstenmeyen posta filtresi bunun iyi bir örneğidir: Sınıflarıyla birlikte (istenmeyen posta veya normal postalar) birçok örnek e-postayla eğitilmiştir ve yeni e-postaları nasıl sınıflandıracağını öğrenmelidir.</p>
+
+<p>Diğer bir tipik görev, bir dizi özellik (kilometre, yaş, marka vb.) verildiğinde, bir otomobilin fiyatı gibi bir hedef sayısal değeri tahmin etmektir. Bu tür bir göreve <strong>regresyon</strong> denir. Bu tip bir sistemi eğitmek için, ona hem tahmin için gereken özellikleri hem de etiketleri (yani fiyatları) dahil olmak üzere birçok araba örneği vermemiz gerekir.</p>
+
+<p>
+  <kbd>
+    <img src="/images2/SupervisedLearningImage.png" width="600" />
+  </kbd>
+</p>
+
+<p><strong>Denetimsiz öğrenme (Unsupervised Learning)</strong>, etiketlenmemiş verilerden öğrenme görevidir. Veriler artık etiketlemeye ihtiyaç duymasa da, bilgisayarın veri toplamak için kullandığı yöntemlerin yine de bir insan tarafından tasarlanması gerekir. UL’de amaç özetlemektir. UL’nin klasik bir örneği, müşteri segmentasyon uygulamasıdır; Bir insan, müşteri verilerini toplar ve müşterileri kümeler halinde gruplamak için bir model eğitir. Bu kümeler bilgiyi özetleyerek müşterilerdeki temel ilişkileri ortaya çıkarır.</p>
+
+<p>Denetimsiz makine öğrenimi, etiketlenmemiş verileri alır ve verileri insan müdahalesi olmadan gerçek zamanlı olarak etiketlemek, sıralamak ve sınıflandırmak için gereken anlamlı özellikleri çıkarmaya yarayan algoritmalar kullanır. Denetimsiz öğrenme, kararların ve tahminlerin otomatikleştirilmesinden çok, insanların gözden kaçıracağı verilerdeki kalıpları ve ilişkileri belirleme hakkındadır.</p>
+
+<p>Klasik bir denetimsiz öğrenme örneği <strong>kümeleme</strong>‘dir: Mesela müşterileri satınalma davranışlarına göre segmentasyon uygulamasıdır; Bir insan, müşteri verilerini toplar ve müşterileri kümeler halinde gruplamak için bir model eğitir. Bu kümeler bilgiyi özetleyerek müşterilerdeki temel ilişkileri ortaya çıkarır. Örneğin X ürününü büyük oranda bayanlar tercih ederken, Y ürününü ise erkekler tercih etmektedir.</p>
+
+<p>Bir diğer çok kullanılan yöntem <strong>ilişkilendirme</strong>‘dir. Mesela yine müşterilerin satınalma davranışları örneği üzerinden gidersek, ilişkilendirme yöntemi ile yapmaya çalıştığımız şey: X ürününü satın alan müşterilerin Y ürününü de satınalma eğiliminde olduğu gibi saklı ilişkileri ortaya çıkarmaktır. Bir süpermarkete sahip olduğumuzu varsayalım. Satış günlüklerimizde bir ilişkilendirme kuralı çalıştırmak, barbekü sosu ve patates cipsi satın alan kişilerin daha yaygın şekilde biftek satın alma eğiliminde olduğunu ortaya çıkarabiliriz. Bu nedenle, bu öğeleri birbirine yakın yerleştirmek isteyebiliriz.</p>
+
+<p>Yine bir başka önemli denetimsiz öğrenme görevi <strong>anormallik tespiti</strong>‘dir. Örneğin, dolandırıcılığı önlemek için olağandışı kredi kartı işlemlerini tespit etmek, üretim hatalarını yakalamak veya bir veri kümesinden aykırı değerleri başka bir öğrenme algoritmasına beslemeden önce otomatik olarak kaldırmak. Sistem eğitim sırasında çoğunlukla normal örnekler gösterilir, bu nedenle onları tanımayı öğrenir ve yeni bir örnek gördüğünde normal bir örnek gibi görünüp görünmediğini veya bir anormallik olup olmadığını anlayabilir.</p>
+
+<p>
+  <kbd>
+    <img src="/images2/AnomalyDetection.png" width="600" />
+  </kbd>
+</p>
+
+<p><strong>Pekiştirmeli öğrenme (Reinforcement Learning)</strong>, deneme yanılma yoluyla öğrenme şeklidir. Bu tür bir görevde, hiçbir insan veri etiketlemez ve hiçbir insan veri toplamaz veya toplama işlemini açıkça tasarlamaz. RL’de amaç harekete geçmektir. Klasik bir RL örneği, Pong oynayan bir programdır; bu program, bir Pong oyununa oyuncu olarak katılır ve tekrar tekrar oynayarak harekete geçer ve etkilerini gözlemleyerek öğrenir. Yeterince eğitilen bu programın, başarılı bir şekilde Pong oynayacak şekilde davranması beklenir.</p>
+
+<p>Burada bilgisayarın pong oyununu reinforcement learning yöntemi ile oynamayı nasıl öğrendiğine dair güzel bir medium makalesi bulabilirsiniz. 
+<a href="https://towardsdatascience.com/intro-to-reinforcement-learning-pong-92a94aa0f84d">Source: https://towardsdatascience.com/intro-to-reinforcement-learning-pong</a></p>
+
+<p><img src="/images2/ReinforcementLearningImage.png" alt="" /></p>
+
+<p>Yukarıdaki örnekte, temsili oyuncuya 2 seçenek verildiğini görebiliriz, yani sulu bir yol veya ateşli bir yol. Temsili oyuncu yangın yolunu kullanıyorsa, ceza puanı alır ve yangın yolundan kaçınması gerektiğini öğrenmeye çalışır. Su yolunu veya güvenli yolu seçmiş olsaydı, ödül puanları alacaktı ve bir sonraki eylemi seçmek için temel olarak elde edilen ödülleri kullanır ve çevre bilgisini geliştirir.</p>
+
+<p>Pekiştirmeli makine öğrenimi, denetimli öğrenmeye benzer davranışsal bir makine öğrenimi modelidir, ancak algoritma örnek veriler kullanılarak eğitilmemiştir. Bu model, deneme yanılma yoluyla ilerledikçe öğrenir. Pekiştirmeli öğrenme, makinenin bir ortamda “yaşadığı” ve o ortamın durumunu bir özellik vektörü olarak algılayabildiğini kabul eder. Makine her durumda eylem gerçekleştirebilir. Farklı eylemler farklı ödüller getirir ve makineyi ortamın başka bir durumuna da taşıyabilir. Pekiştirmeli öğrenme algoritmasının amacı bir politika öğrenmektir. Politika, bir durumun özellik vektörünü girdi olarak alan ve bu durumda yürütülecek en uygun eylemi hesaplayan bir işlevdir (denetimli öğrenmedeki modele benzer). Beklenen ortalama ödülü en üst düzeye çıkarırsa, eylem optimaldir. Pekiştirmeli öğrenme, karar vermenin sıralı olduğu ve amacın uzun vadeli olduğu, oyun oynama, robotik, kaynak yönetimi veya lojistik gibi sorunları çözer.</p>
+
+<p>Alttaki video’da DeepMind’in Breakout oyununu oynamayı öğrenen yazılımının, topun duvarın arkasından zıplayarak bloklara çarpmasıyla yan tarafta “bir tünel kazabileceğini” keşfettiğini gösteren videosunu izleyebilirsiniz.</p>
+
+<iframe src="https://www.youtube.com/embed/TmPfTpjtdgg" width="600" height="400" frameborder="0" allow="allowfullscreen">
+</iframe>
+<p><a href="https://towardsdatascience.com/tutorial-double-deep-q-learning-with-dueling-network-architectures-4c1b3fb7f756">Source: https://towardsdatascience.com/tutorial-double-deep-q-learning-with-dueling-network-architectures-4c1b3fb7f756</a></p>
+
+<h3>Derin Öğrenme</h3>
+<p>Yapay zeka alanı, esasen makinelerin tipik olarak insan zekası gerektiren görevleri yerine getirebilmesiyle ilgilidir. Makinelerin deneyimle öğrenebileceği ve insan müdahalesi olmadan beceriler edinebileceği fikri makine öğrenimini kapsar. Derin öğrenme, yapay sinir ağlarının, yani insan beyninden esinlenen algoritmaların büyük miktarda veriden öğrendiği bir makine öğrenimi alt kümesidir. Deneyimden nasıl öğrendiğimize benzer şekilde, derin öğrenme algoritması, sonucu iyileştirmek için her seferinde biraz ince ayar yaparak bir görevi tekrar tekrar gerçekleştirir. “Derin öğrenmeye” atıfta bulunulmuştur çünkü sinir ağları öğrenmeyi sağlayan onlarca hatta yüzlerce (derin) katmana sahiptir. Çözülmesi için “düşünme” gerektiren herhangi bir problem, derin öğrenmenin çözmeyi öğrenebileceği bir problemdir.</p>
+
+<p>
+  <kbd>
+    <img src="/images2/ai-ml-dl-difference.png" width="600" />
+  </kbd>
+  <br />
+  <a href="https://www.botreetechnologies.com/blog/artificial-intelligence-vs-machine-learning-vs-deep-learning-difference/">Image source: artificial-intelligence-vs-machine-learning-vs-deep-learning-difference</a>
+</p>
+
+<p>Derin öğrenmede her seviye, girdi verilerini biraz daha soyut ve bileşik bir temsile dönüştürmeyi öğrenir. Bir görüntü tanıma uygulamasında, ham girdi bir piksel matrisi olabilir; birinci temsil katmanı pikselleri soyutlayabilir ve kenarları kodlayabilir; ikinci katman, kenar düzenlemelerini oluşturabilir ve kodlayabilir; üçüncü katman bir burnu ve gözleri kodlayabilir; ve dördüncü katman, görüntünün bir yüz içerdiğini fark edebilir. Daha da önemlisi, bir derin öğrenme süreci hangi özelliklerin hangi seviyeye en uygun şekilde yerleştirileceğini kendi başına öğrenebilir. (Elbette bu, elle ayarlama ihtiyacını tamamen ortadan kaldırmaz; örneğin, değişen sayıda katman ve katman boyutları farklı soyutlama dereceleri sağlayabilir.)</p>
+
+<p>Son yıllarda Derin öğrenme üzerine algoritmaları üzerine yapılan çalışmalar yapay zeka dünyasını domine etmekle kalmadı, kökten değiştirdi. En bilindik başarılı yapay zeka uygulamalarının arkasında derin öğrenme var.</p>
+
+<p>Kaynakça:</p>
+<ol>
+  <li><a href="https://www.manning.com/books/zero-to-ai#:~:text=About%20the%20book,AI%20to%20shape%20their%20industries">“Zero to AI”, Gianluca Mauro &amp; Nicolo Valigi</a></li>
+  <li><a href="https://www.manning.com/books/deep-learning-with-python">“Deep Learning with Python”, François Chollet</a></li>
+  <li><a href="https://en.wikipedia.org/wiki/Machine_learning">“Machine learning” - Wikipedia</a></li>
+  <li><a href="https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1492032646">“Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow”, Aurellion Geron</a></li>
+  <li><a href="https://en.wikipedia.org/wiki/Deep_learning">“Deep Learning” - Wikipedia</a></li>
+</ol>
+
+:ET

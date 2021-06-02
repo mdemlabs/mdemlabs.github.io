@@ -1,0 +1,65 @@
+I"k+<p>Yapay Zeka, muhtemelen insanlığın şimdiye kadarki en karmaşık ve şaşırtıcı eseridir. Her şaşırtıcı AI uygulaması, AI buzdağının sadece görünen kısmını temsil ettiği anlamına geliyor. Gelecekte yapay zekanın potansiyel etkisine ilişkin kapsamlı bir bakış açısı kazanmak hala çok zor. Bunun nedeni, yapay zekanın, evriminin nispeten erken bir aşamasında bile toplum üzerinde yarattığı etkinin büyüklüğü.</p>
+
+<p>
+  <kbd>
+    <img src="/images2/WalleAndEve.jpg" width="600" />
+  </kbd>
+</p>
+
+<p>Yapay zekanın hızlı büyümesi ve güçlü yetenekleri ve farklı sektörlerde yapay zekanın getirdiği dönüşüm, yapay zekanın potansiyelini en üst düzeye çıkarmaya yakın olduğumuzu düşündürdü. Bununla birlikte, mümkün olan AI türlerini ve şu anda var olan türleri anlamak, mevcut AI yeteneklerinin daha net bir resmini çizmeyi ve AI konusunda önümüzdeki uzun yolu görmemizi sağlayacaktır.</p>
+
+<p>Yapay Zeka çalışmalarının temel amacı, makinelerin insan benzeri bir işlevi yerine getirmesini sağlamaktır. Bu nedenle, AI’ın birincil sınıflandırma yolu, insan benzeri eylemleri ne kadar iyi kopyalayabildiğine dayanır. AI, genel olarak, iki türe göre sınıflandırılabilir. “İşlevselliğe Dayalı” olan bir sınıflandırma türü, yapay zekayı insan zihnine benzerlikleri ve insanlar gibi düşünme ve hissetme yetenekleri temelinde sınıflandırır. İkinci sınıflandırma yöntemi teknoloji endüstrisinde daha belirgindir ve İnsan Zekası karşısında yapay zekanın “Yeteneklerine Dayalı” dır.</p>
+
+<p>
+  <kbd>
+    <img src="/images2/types-of-AI.jpg" width="600" />
+  </kbd>
+</p>
+
+<h3>İşlevselliğe (functionality) Dayalı Sınıflandırma</h3>
+<p>Bu sınıflandırma sistemine göre, dört tür AI veya AI tabanlı sistem vardır: reaktif makineler, sınırlı hafızalı makineler, zihin teorisi ve özbilinçli AI.</p>
+
+<ol>
+  <li>
+    <p><strong>Reaktif Makineler</strong>… Bunlar, son derece sınırlı kapasiteye sahip en eski AI sistemleridir. İnsan zihninin farklı türden uyaranlara tepki verme yeteneğini taklit ederler. Bu makinelerin bellek tabanlı işlevleri yoktur. Bu, bu tür makinelerin mevcut eylemlerini bildirmek için önceden kazanılan deneyimleri kullanamayacağı anlamına gelir, yani bu makinelerin “öğrenme” yeteneği yoktur. Bu makineler, yalnızca sınırlı sayıda girdiye veya girdi kombinasyonuna otomatik olarak yanıt vermek için kullanılabilir. Reaktif yapay zeka makinesinin popüler bir örneği, 1997’de satranç Grandmaster Garry Kasparov’u yenen bir makine olan <strong>IBM Deep Blue</strong>‘dur. Deep Blue, bir satranç tahtasındaki taşları tanımlayabilir ve her birinin nasıl hareket ettiğini bilir. Kendisi ve rakibi için sonraki hamlelerin olabileceği konusunda tahminlerde bulunabilir. Ve olasılıklar arasından en uygun hamleleri seçebilir. Ama geçmişe dair herhangi bir kavrayışa ya da daha önce ne olduğuna dair herhangi bir hatıraya sahip değildir. Bu tip sistemler kolayca değiştirilemez ve diğer durumlara uygulanamaz. Yani atandıkları belirli görevlerin ötesinde işlev göremezler ve kolayca kandırılırlar. Öte yandan işlevsellik açısından son derece faydalıdırlar: bu makineler aynı durumla her karşılaştıklarında tam olarak aynı şekilde davranacaktır.</p>
+  </li>
+  <li>
+    <p><strong>Sınırlı Hafızalı Makineler</strong>… Sınırlı hafızalı makineler, tamamen reaktif makinelerin yeteneklerine sahip olmanın yanı sıra, karar vermek için geçmiş verilerden öğrenebilen makinelerdir. Bildiğimiz neredeyse tüm mevcut uygulamalar bu AI kategorisine girer. Derin öğrenmeyi kullananlar gibi günümüzün tüm yapay zeka sistemleri, gelecekteki sorunları çözmek için bir referans model oluşturmak üzere hafızalarında depoladıkları büyük hacimli eğitim verileriyle eğitilir. Örneğin, bir görüntü tanıma yapay zekası, taradığı nesneleri adlandırmayı öğrenmek için binlerce resim ve bunların etiketlerini kullanarak eğitilir. Bir görüntü böyle bir yapay zeka tarafından tarandığında, kendisine sunulan görüntünün içeriğini anlamak için eğitim görüntülerini referans olarak kullanır ve “öğrenme deneyimine” dayanarak yeni görüntüleri artan doğrulukla etiketler. Sohbet robotlarından ve sanal asistanlardan otonom araçlara kadar günümüzün neredeyse tüm yapay zeka uygulamalarının tümü sınırlı bellekli yapay zeka tarafından yönetiliyor.</p>
+  </li>
+  <li>
+    <p><strong>Zihin Teorisi</strong>… <em>Psikolojide “zihin teorisi” şu sekilde tanımlanıyor: Dünyadaki insanların, yaratıkların ve nesnelerin kendi davranışlarını etkileyen düşünce ve duygulara sahip olabileceği anlayışı</em>.Zihin teorisi AI, araştırmacıların üzerinde kafa yordukları, henüz pratikte hayata geçmemiş bir sonraki AI sistemidir. Zihin seviyesi Yapay Zeka sistemleri, ihtiyaçlar, duygular, inançlar ve düşünce süreçlerini ayırt ederek etkileşimde olduğu varlıkları daha iyi anlayabilecektir. Yapay duygusal zeka halihazırda gelişmekte olan bir endüstri ve önde gelen AI araştırmacıları için bir ilgi alanı olsa da, AI’nın zihin teorisi seviyesine ulaşmak, AI’nın diğer dallarında da geliştirmeyi gerektirecektir. Bunun nedeni, insan ihtiyaçlarını gerçekten anlamak için, AI makinelerinin insanları anlamaları gerekir. Yani zihinleri birden çok faktör tarafından şekillendirilebilen insanları, “anlayabilen” bireyler olarak algılaması gerekecek olmasıdır. Yapay zeka sistemleri gerçekten de aramızda dolaşacaksa, her birimizin nasıl davranılacağına dair düşünceleri, duyguları ve beklentileri olduğunu anlamaları gerekir. Ve davranışlarını buna göre ayarlamaları gerekecek.</p>
+  </li>
+  <li>
+    <p><strong>Özbilinçli AI</strong>… Bu, şu anda yalnızca varsayımsal olarak var olan AI geliştirmenin son aşamasıdır. Kendini açıklayıcı bir şekilde, insan beynine çok benzeyen ve öz farkındalık geliştiren bir yapay zeka olan öz farkındalığına sahip Yapay Zeka. Bu tür bir Yapay Zeka, yalnızca etkileşime girdiği kişilerdeki duyguları anlayıp uyandırmakla kalmayacak, aynı zamanda kendi duygularına, ihtiyaçlarına, inançlarına ve potansiyel olarak arzularına da sahip olacaktır.</p>
+  </li>
+</ol>
+
+<p>Bu, teknolojinin felaket tellallarının ihtiyatlı olduğu bir yapay zeka türüdür. Öz farkındalığın gelişmesi, bir medeniyet olarak ilerlememizi potansiyel olarak artırabilse de, potansiyel olarak felakete de yol açabilir. Bunun nedeni, yapay zekanın bir kez kendisinin farkına vardığında, kendini koruma gibi, insanlığın sonunu doğrudan veya dolaylı olarak getirebilecek fikirlere sahip olabilmesidir, çünkü böyle bir varlık, herhangi bir insanın zekasını kolaylıkla alt edebilir ve hakimiyeti ele almak için insanlık üzerinde ayrıntılı planlar hazırlayabilir. Şimdilik sadece komplo teorisi düzeyinde ve “<strong>Terminator</strong>” ve “<strong>The Avengers: Age of Ultron</strong>” gibi filmlere konu olabiliyor. Belki de en iyisi bu şekilde bir hayal olarak kalması…</p>
+
+<h3>Yeteneklerine (ability) Dayalı Sınıflandırma</h3>
+
+<p>Genel olarak teknoloji dilinde kullanılan alternatif sınıflandırma sistemi, Yapay Zeka uygulamasının yeteneklerini baz alır:</p>
+
+<ol>
+  <li>
+    <p><strong>Yapay Dar Zeka (Narrow AI)</strong>… Bu tür bir yapay zeka, bugüne kadar yapılmış en karmaşık ve yetenekli AI uygulamaları dahil olmak üzere tüm mevcut AI’yı temsil eder. Yapay dar zeka, insan benzeri yetenekleri kullanarak yalnızca belirli bir görevi bağımsız olarak gerçekleştirebilen AI sistemlerini ifade eder. Bu makineler programlandıklarından daha fazlasını yapamazlar ve bu nedenle çok sınırlı veya dar bir yetkinlik yelpazesine sahiptirler. Yukarıda belirtilen sınıflandırma sistemine göre, bu sistemler tüm reaktif ve sınırlı bellek AI’ya karşılık gelir. Kendi kendine öğretmek için makine öğrenimi ve derin öğrenmeyi kullanan en karmaşık yapay zeka bile Yapay Dar Zeka kapsamına girer.</p>
+  </li>
+  <li>
+    <p><strong>Yapay Genel Zeka (General AI)</strong>… Yapay Genel Zeka, bir AI uygulamasının tamamen bir insan gibi öğrenme, algılama, anlama ve işlev görme yeteneğidir. Bu sistemler, bağımsız olarak birden fazla yetkinlik oluşturabilecek ve alanlar arasında bağlantılar ve genellemeler oluşturabilecek ve eğitim için gereken zamanı büyük ölçüde azaltacaktır. Bu, çok işlevli yeteneklerimizi kopyalayarak AI sistemlerini insanlar kadar yetenekli hale getirmek demek oluyor. Halihazırda Yapay Zeka konusunda gelinen noktayı göz önüne alısak, hala bu hedefin çok uzağındayız.</p>
+  </li>
+  <li>
+    <p><strong>Yapay Süper Zeka (Super AI)</strong>… Yapay Süper Zeka’nın geliştirilmesi, yapay zeka araştırmalarının zirvesini işaret edecek, çünkü hem Genel AI hem de Super AI dünyadaki en yetenekli zeka biçimleri haline gelecektir. Super AI, insanların çok yönlü zekasını kopyalamaya ek olarak, çok daha fazla bellek, daha hızlı veri işleme ve analiz ve karar verme yetenekleri nedeniyle yaptıkları her şeyde son derece daha iyi olacaktır. Super AI’ın gelişimi, en popüler şekilde tekillik olarak adlandırılan bir senaryoya yol açacaktır. Ve bu kadar güçlü makinelere sahip olma potansiyeli çekici görünürken, bu makineler aynı zamanda varlığımızı veya en azından yaşam tarzımızı tehdit edebilir.</p>
+  </li>
+</ol>
+
+<p>Milyarder teknoloji girişimcisi <strong>Elon Musk</strong>, Yapay Zeka’yı nükleer savaş başlıklarından daha tehlikeli olarak nitelendirdi ve süper zekanın geliştirilmesini denetleyen bir düzenleyici kurum olması gerektiğini söyledi. Bill Gates’ten Marc Zukerberg’e kadar pek çok girişimci ise bu ifadeleri abartılı buluklarını belirttiler.</p>
+
+<p>Bu noktada, Super AI gibi aşırı gelişmiş Yapay Zeka türleri ortaya çıkar mı? ve çıktığında dünyamızın durumu nasıl olur bunu resmetmek zordur. Bununla birlikte, hedeflenen yapay zeka gelişiminin mevcut durumu, gitmesi öngörülen yere kıyasla hala ilk aşamada olduğundan, oraya varmanın uzun bir yolu olduğu açıktır. Yapay zekanın geleceği için olumsuz bir bakış açısına sahip olanlar için bile, şu an tekillik konusunda endişelenmek için biraz erken olduğunu söyleyebiliriz. Bu, Yapay Zekanın güvenliğini sağlamak için hala zaman olduğu anlamına geliyor. Ve yapay zekanın geleceği konusunda iyimser olanlar için, geleceği daha da heyecanlı kılıyor.</p>
+
+<p>Kaynakça:</p>
+<ol>
+  <li><a href="https://www.forbes.com/sites/cognitiveworld/2019/06/19/7-types-of-artificial-intelligence/?sh=3b8a6ab8233e">Forbes, “7 types of Artificial Intelligence”</a></li>
+  <li><a href="https://en.wikipedia.org/wiki/Artificial_general_intelligence">Artificial General Intelligence - Wikipedia</a></li>
+</ol>
+
+:ET
